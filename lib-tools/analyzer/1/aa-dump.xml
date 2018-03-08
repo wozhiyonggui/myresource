@@ -1,0 +1,1741 @@
+<AbstractRoot id="0">
+  <GameObject name="cs07(Clone)" components="CutSceneContent" id="-546996">
+    <GameObject name="Sound" components="MyAkGo" id="-547002"/>
+    <GameObject name="cs07_final_camera" components="Animator" id="-547008">
+      <GameObject name="camera" components="" id="-547014">
+        <GameObject name="FOV" components="" id="-547018"/>
+        <GameObject name="Camera" components="Camera|FlareLayer|GUILayer|CameraFOVAct|FxPro|DBImageEffectRadialBlurCurve|DBImageEffectAntialiasing" id="-547022">
+          <GameObject name="BindPoint" components="" id="-547864"/>
+        </GameObject>
+      </GameObject>
+      <GameObject name="camera_aim" components="" id="-547038"/>
+    </GameObject>
+  </GameObject>
+  <GameObject name="t4m" components="T4MObjSC" id="-482750"/>
+  <GameObject name="Scene" components="" id="-482746">
+    <GameObject name="ZoneRoot_0" components="" id="-482756">
+      <GameObject name="Static_0" components="" id="-482760">
+        <GameObject name="batchZone1" components="" id="-482776">
+          <GameObject name="dbyw_stone01_036" components="MeshFilter|MeshRenderer" id="-482768"/>
+          <GameObject name="dbyw_stone01_062" components="MeshFilter|MeshRenderer" id="-482780"/>
+          <GameObject name="dbyw_stone01_066" components="MeshFilter|MeshRenderer" id="-482788"/>
+          <GameObject name="dbyw_stone01_037" components="MeshFilter|MeshRenderer" id="-482816"/>
+          <GameObject name="dbyw_stone01_064" components="MeshFilter|MeshRenderer" id="-482840"/>
+          <GameObject name="dbyw_stone01_065" components="MeshFilter|MeshRenderer" id="-482864"/>
+          <GameObject name="dbyw_stone01_063" components="MeshFilter|MeshRenderer" id="-482976"/>
+        </GameObject>
+        <GameObject name="batchZone2" components="" id="-482812">
+          <GameObject name="dbyw_stone01_045" components="MeshFilter|MeshRenderer" id="-482804"/>
+          <GameObject name="dbyw_stone01_039" components="MeshFilter|MeshRenderer" id="-482824"/>
+          <GameObject name="dbyw_stone01_057" components="MeshFilter|MeshRenderer" id="-482832"/>
+          <GameObject name="dbyw_stone01_052" components="MeshFilter|MeshRenderer" id="-482848"/>
+          <GameObject name="dbyw_stone01_053" components="MeshFilter|MeshRenderer" id="-482856"/>
+          <GameObject name="dbyw_stone01_048" components="MeshFilter|MeshRenderer" id="-482896"/>
+          <GameObject name="dbyw_stone01_041" components="MeshFilter|MeshRenderer" id="-482968"/>
+        </GameObject>
+        <GameObject name="batchZone4" components="" id="-482880">
+          <GameObject name="dbyw_stone02_047" components="MeshFilter|MeshRenderer" id="-482872"/>
+          <GameObject name="dbyw_stone02_053" components="MeshFilter|MeshRenderer" id="-482952"/>
+          <GameObject name="dbyw_stone02_057" components="MeshFilter|MeshRenderer" id="-482984"/>
+          <GameObject name="dbyw_stone02_063" components="MeshFilter|MeshRenderer" id="-482992"/>
+          <GameObject name="dbyw_stone02_060" components="MeshFilter|MeshRenderer" id="-483000"/>
+          <GameObject name="dbyw_stone02_083" components="MeshFilter|MeshRenderer" id="-483016"/>
+        </GameObject>
+        <GameObject name="batchZone3" components="" id="-482892">
+          <GameObject name="dbyw_stone02_045" components="MeshFilter|MeshRenderer" id="-482884"/>
+          <GameObject name="dbyw_stone02_074" components="MeshFilter|MeshRenderer" id="-482904"/>
+          <GameObject name="dbyw_stone02_076" components="MeshFilter|MeshRenderer" id="-482912"/>
+          <GameObject name="dbyw_stone02_065" components="MeshFilter|MeshRenderer" id="-482920"/>
+          <GameObject name="dbyw_stone02_075" components="MeshFilter|MeshRenderer" id="-482928"/>
+          <GameObject name="dbyw_stone02_049" components="MeshFilter|MeshRenderer" id="-482936"/>
+          <GameObject name="dbyw_stone02_050" components="MeshFilter|MeshRenderer" id="-482944"/>
+          <GameObject name="dbyw_stone02_067" components="MeshFilter|MeshRenderer" id="-482960"/>
+          <GameObject name="dbyw_stone02_054" components="MeshFilter|MeshRenderer" id="-483008"/>
+          <GameObject name="dbyw_stone02_084" components="MeshFilter|MeshRenderer" id="-483024"/>
+          <GameObject name="dbyw_stone02_085" components="MeshFilter|MeshRenderer" id="-483032"/>
+        </GameObject>
+        <GameObject name="batchZone5" components="" id="-483050">
+          <GameObject name="dbyw_jianzhu_a1" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483040"/>
+          <GameObject name="dbyw_jianzhu_g1" components="MeshFilter|MeshRenderer" id="-483290"/>
+          <GameObject name="dbyw_jianzhu_f2" components="MeshFilter|MeshRenderer" id="-483298"/>
+          <GameObject name="dbyw_jianzhu_f1" components="MeshFilter|MeshRenderer" id="-483306"/>
+          <GameObject name="dbyw_jianzhu_f3" components="MeshFilter|MeshRenderer" id="-483314"/>
+        </GameObject>
+        <GameObject name="batchZone6" components="" id="-483068">
+          <GameObject name="dbyw_jianzhu_b1" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483054"/>
+          <GameObject name="dbyw_jianzhu_b2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483072"/>
+          <GameObject name="dbyw_jianzhu_b3" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483082"/>
+          <GameObject name="dbyw_jianzhu_b4" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483092"/>
+          <GameObject name="dbyw_jianzhu_c3" components="MeshFilter|MeshRenderer|SphereCollider|DragonBallObjDis" id="-483106"/>
+          <GameObject name="dbyw_jianzhu_c4" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483118"/>
+          <GameObject name="dbyw_jianzhu_d1" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483128"/>
+          <GameObject name="dbyw_jianzhu_d2" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483142"/>
+          <GameObject name="dbyw_jianzhu_d3" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483156"/>
+          <GameObject name="dbyw_jianzhu_d5" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483170"/>
+          <GameObject name="dbyw_jianzhu_e3" components="MeshFilter|MeshRenderer|DragonBallObjLOD|SphereCollider|DragonBallObjDis" id="-483184"/>
+          <GameObject name="dbyw_jianzhu_e4" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483198"/>
+          <GameObject name="dbyw_jianzhu_e5" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483208"/>
+          <GameObject name="dbyw_jianzhu_e1" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-484988"/>
+          <GameObject name="dbyw_jianzhu_d4" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-484998"/>
+          <GameObject name="dbyw_jianzhu_b6" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485016"/>
+          <GameObject name="dbyw_jianzhu_e2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485026"/>
+          <GameObject name="dbyw_jianzhu_b5" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485072"/>
+          <GameObject name="dbyw_jianzhu_c1" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485082"/>
+          <GameObject name="dbyw_jianzhu_c2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485092"/>
+        </GameObject>
+        <GameObject name="batchZone0" components="" id="-483262">
+          <GameObject name="dbyw_chuisong01" components="DragonBallObjLOD" id="-483226"/>
+          <GameObject name="dbyw_006_2" components="" id="-483286"/>
+          <GameObject name="dbyw_005" components="" id="-483322"/>
+          <GameObject name="dbyw_004_2" components="" id="-483458"/>
+          <GameObject name="dbyw_004" components="" id="-483486"/>
+          <GameObject name="dbyw_003" components="" id="-483614"/>
+          <GameObject name="terraincollider" components="MeshFilter|MeshCollider" id="-485008"/>
+          <GameObject name="dbyw_chuisong02" components="DragonBallObjLOD" id="-485036"/>
+          <GameObject name="dbyw_guanmu01" components="" id="-485358"/>
+          <GameObject name="dbyw_guanmu06" components="" id="-485640"/>
+          <GameObject name="dbyw_baijian05" components="" id="-485734"/>
+          <GameObject name="dbyw_baijian03" components="" id="-485772"/>
+          <GameObject name="dbyw_baijian01" components="DragonBallObjLOD" id="-485796"/>
+          <GameObject name="dbyw_baijian16" components="" id="-485822"/>
+          <GameObject name="dbyw_baijian04" components="" id="-485910"/>
+          <GameObject name="dbyw_baijian02" components="DragonBallObjLOD" id="-486142"/>
+          <GameObject name="dbyw_guanmu03" components="" id="-486714"/>
+          <GameObject name="dbyw_guanmu11" components="" id="-486788"/>
+          <GameObject name="dbyw_guanmu04" components="" id="-486862"/>
+          <GameObject name="dbyw_guanmu02" components="" id="-486926"/>
+          <GameObject name="dbyw_guanmu12" components="" id="-486970"/>
+          <GameObject name="dbyw_guanmu13" components="" id="-486994"/>
+          <GameObject name="T_sm_03a_Y027" components="" id="-487052"/>
+          <GameObject name="T_sm_03a_Y022" components="" id="-487084"/>
+          <GameObject name="T_sm_03a_Y023" components="" id="-487108"/>
+          <GameObject name="T_sm_03a_Y018" components="" id="-487132"/>
+          <GameObject name="T_sm_03a_Y019" components="" id="-487156"/>
+          <GameObject name="T_sm_03a_Y012" components="" id="-487180"/>
+          <GameObject name="T_sm_03a_Y005" components="" id="-487204"/>
+          <GameObject name="T_sm_03a_Y019 (1)" components="" id="-487228"/>
+          <GameObject name="T_sm_03a_Y011" components="" id="-487252"/>
+          <GameObject name="T_sm_03a_Y003" components="" id="-487284"/>
+          <GameObject name="T_sm_03a_Y004" components="" id="-487308"/>
+          <GameObject name="T_sm_03a_Y007" components="" id="-487332"/>
+          <GameObject name="dbyw_songshu02" components="" id="-487356"/>
+          <GameObject name="dbyw_yeshu02" components="" id="-487394"/>
+          <GameObject name="dbyw_songshu01" components="" id="-487428"/>
+          <GameObject name="dbyw_songshu03" components="" id="-487472"/>
+          <GameObject name="dbyw_songshu07" components="" id="-487496"/>
+          <GameObject name="dbyw_chuisong03" components="DragonBallObjLOD" id="-487520"/>
+          <GameObject name="dbyw_yeshu01" components="" id="-487556"/>
+          <GameObject name="dbyw_songshu04" components="" id="-488072"/>
+          <GameObject name="dbyw_songshu05" components="" id="-488116"/>
+          <GameObject name="dbyw_songshu08" components="" id="-488140"/>
+          <GameObject name="dbyw_songshu06" components="" id="-488194"/>
+          <GameObject name="dbyw_huacao10" components="DragonBallObjLOD" id="-489768"/>
+          <GameObject name="dbyw_huacao03" components="" id="-489818"/>
+          <GameObject name="dbyw_huacao11" components="DragonBallObjLOD" id="-489922"/>
+          <GameObject name="dbyw_huacao07" components="DragonBallObjLOD" id="-489988"/>
+          <GameObject name="dbyw_huacao02" components="" id="-490182"/>
+          <GameObject name="dbyw_huacao04" components="" id="-490276"/>
+          <GameObject name="dbyw_huacao05" components="" id="-490440"/>
+          <GameObject name="dbyw_huacao01" components="" id="-490634"/>
+          <GameObject name="dbyw_huacao06" components="" id="-490758"/>
+          <GameObject name="dbyw_huacao08" components="DragonBallObjLOD" id="-490892"/>
+          <GameObject name="dbyw_huacao09" components="DragonBallObjLOD" id="-490978"/>
+          <GameObject name="dbyw_guanmu09" components="" id="-491064"/>
+          <GameObject name="dbyw_guanmu10" components="" id="-491118"/>
+          <GameObject name="dbyw_guanmu05" components="" id="-491182"/>
+          <GameObject name="dbyw_guanmu07" components="" id="-491226"/>
+          <GameObject name="dbyw_guanmu08" components="" id="-491310"/>
+        </GameObject>
+        <GameObject name="batchZone16" components="" id="-483266">
+          <GameObject name="new_dbyw_sm_b_01" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483232"/>
+          <GameObject name="new_dbyw_sm_b_02" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485050"/>
+          <GameObject name="new_dbyw_sm_b_03" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487534"/>
+        </GameObject>
+        <GameObject name="batchZone17" components="" id="-483270">
+          <GameObject name="new_dbyw_sm_c_01" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483242"/>
+          <GameObject name="new_dbyw_sm_c_02" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485058"/>
+          <GameObject name="new_dbyw_sm_c_03" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487542"/>
+        </GameObject>
+        <GameObject name="batchZone18" components="" id="-483274">
+          <GameObject name="new_dbyw_sm_a_01" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483252"/>
+          <GameObject name="new_dbyw_sm_a_02" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485042"/>
+          <GameObject name="new_dbyw_sm_a_03" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487526"/>
+        </GameObject>
+        <GameObject name="batchZone38" components="" id="-483434">
+          <GameObject name="dbyw_dibiao_24" components="MeshFilter|MeshRenderer" id="-483326"/>
+          <GameObject name="dbyw_dibiao_25" components="MeshFilter|MeshRenderer" id="-483334"/>
+        </GameObject>
+        <GameObject name="batchZone39" components="" id="-483438">
+          <GameObject name="dbyw_dibiao_30" components="MeshFilter|MeshRenderer" id="-483342"/>
+          <GameObject name="dbyw_dibiao_31" components="MeshFilter|MeshRenderer" id="-483350"/>
+        </GameObject>
+        <GameObject name="batchZone-1" components="" id="-483442">
+          <GameObject name="dbyw_dibiao_36" components="MeshFilter|MeshRenderer" id="-483358"/>
+          <GameObject name="dbyw_dibiao_44" components="MeshFilter|MeshRenderer" id="-483410"/>
+          <GameObject name="dbyw_dibiao_06" components="MeshFilter|MeshRenderer" id="-483498"/>
+          <GameObject name="dbyw_dibiao_22" components="MeshFilter|MeshRenderer" id="-483530"/>
+          <GameObject name="dbyw_dibiao_43" components="MeshFilter|MeshRenderer" id="-483586"/>
+          <GameObject name="dbyw_dibiao_05" components="MeshFilter|MeshRenderer" id="-483626"/>
+          <GameObject name="dbyw_dibiao_32" components="MeshFilter|MeshRenderer" id="-483730"/>
+          <GameObject name="dbyw_dibiao_35" components="MeshFilter|MeshRenderer" id="-483746"/>
+          <GameObject name="dbyw_dibiao_39" components="MeshFilter|MeshRenderer" id="-483762"/>
+        </GameObject>
+        <GameObject name="batchZone36" components="" id="-483446">
+          <GameObject name="dbyw_dibiao_39" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483366"/>
+          <GameObject name="dbyw_dibiao_37" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483384"/>
+          <GameObject name="dbyw_dibiao_38" components="MeshFilter|MeshRenderer" id="-483394"/>
+          <GameObject name="dbyw_dibiao_26" components="MeshFilter|MeshRenderer" id="-483546"/>
+          <GameObject name="dbyw_dibiao_27" components="MeshFilter|MeshRenderer" id="-483554"/>
+          <GameObject name="dbyw_dibiao_34" components="MeshFilter|MeshRenderer" id="-483578"/>
+        </GameObject>
+        <GameObject name="batchZone40" components="" id="-483450">
+          <GameObject name="dbyw_dibiao_40" components="MeshFilter|MeshRenderer" id="-483376"/>
+          <GameObject name="dbyw_dibiao_42" components="MeshFilter|MeshRenderer" id="-483402"/>
+        </GameObject>
+        <GameObject name="batchZone41" components="" id="-483454">
+          <GameObject name="dbyw_dibiao_46" components="MeshFilter|MeshRenderer" id="-483418"/>
+          <GameObject name="dbyw_dibiao_47" components="MeshFilter|MeshRenderer" id="-483426"/>
+        </GameObject>
+        <GameObject name="batchZone32" components="" id="-483478">
+          <GameObject name="dbyw_dibiao_40" components="MeshFilter|MeshRenderer" id="-483462"/>
+          <GameObject name="dbyw_dibiao_01" components="MeshFilter|MeshRenderer" id="-483490"/>
+        </GameObject>
+        <GameObject name="batchZone34" components="" id="-483482">
+          <GameObject name="dbyw_dibiao_48" components="MeshFilter|MeshRenderer" id="-483470"/>
+          <GameObject name="dbyw_dibiao_12" components="MeshFilter|MeshRenderer" id="-483514"/>
+          <GameObject name="dbyw_dibiao_21" components="MeshFilter|MeshRenderer" id="-483522"/>
+          <GameObject name="dbyw_dibiao_45" components="MeshFilter|MeshRenderer" id="-483594"/>
+        </GameObject>
+        <GameObject name="batchZone33" components="" id="-483602">
+          <GameObject name="dbyw_dibiao_11" components="MeshFilter|MeshRenderer" id="-483506"/>
+        </GameObject>
+        <GameObject name="batchZone35" components="" id="-483606">
+          <GameObject name="dbyw_dibiao_23" components="MeshFilter|MeshRenderer" id="-483538"/>
+        </GameObject>
+        <GameObject name="batchZone37" components="" id="-483610">
+          <GameObject name="dbyw_dibiao_28" components="MeshFilter|MeshRenderer" id="-483562"/>
+          <GameObject name="dbyw_dibiao_29" components="MeshFilter|MeshRenderer" id="-483570"/>
+        </GameObject>
+        <GameObject name="batchZone27" components="" id="-483770">
+          <GameObject name="dbyw_dibiao_04" components="MeshFilter|MeshRenderer" id="-483618"/>
+          <GameObject name="dbyw_dibiao_14" components="MeshFilter|MeshRenderer" id="-483674"/>
+          <GameObject name="dbyw_dibiao_16" components="MeshFilter|MeshRenderer" id="-483690"/>
+          <GameObject name="dbyw_dibiao_18" components="MeshFilter|MeshRenderer" id="-483706"/>
+          <GameObject name="dbyw_dibiao_20" components="MeshFilter|MeshRenderer" id="-483722"/>
+        </GameObject>
+        <GameObject name="batchZone28" components="" id="-483774">
+          <GameObject name="dbyw_dibiao_07" components="MeshFilter|MeshRenderer" id="-483634"/>
+          <GameObject name="dbyw_dibiao_08" components="MeshFilter|MeshRenderer" id="-483642"/>
+          <GameObject name="dbyw_dibiao_09" components="MeshFilter|MeshRenderer" id="-483650"/>
+          <GameObject name="dbyw_dibiao_10" components="MeshFilter|MeshRenderer" id="-483658"/>
+        </GameObject>
+        <GameObject name="batchZone29" components="" id="-483778">
+          <GameObject name="dbyw_dibiao_13" components="MeshFilter|MeshRenderer" id="-483666"/>
+          <GameObject name="dbyw_dibiao_15" components="MeshFilter|MeshRenderer" id="-483682"/>
+          <GameObject name="dbyw_dibiao_17" components="MeshFilter|MeshRenderer" id="-483698"/>
+          <GameObject name="dbyw_dibiao_19" components="MeshFilter|MeshRenderer" id="-483714"/>
+        </GameObject>
+        <GameObject name="batchZone30" components="" id="-483782">
+          <GameObject name="dbyw_dibiao_33" components="MeshFilter|MeshRenderer" id="-483738"/>
+        </GameObject>
+        <GameObject name="batchZone31" components="" id="-483786">
+          <GameObject name="dbyw_dibiao_36" components="MeshFilter|MeshRenderer" id="-483754"/>
+        </GameObject>
+        <GameObject name="batchZone21" components="" id="-485112">
+          <GameObject name="T_sm_04b_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485102"/>
+          <GameObject name="T_sm_04b_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485116"/>
+          <GameObject name="T_sm_04b_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485126"/>
+          <GameObject name="T_sm_04b_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485136"/>
+          <GameObject name="T_sm_04b_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485146"/>
+          <GameObject name="T_sm_04a_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485580"/>
+          <GameObject name="T_sm_04a_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485590"/>
+          <GameObject name="T_sm_04a_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485600"/>
+          <GameObject name="T_sm_04a_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485610"/>
+          <GameObject name="T_sm_04a_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485620"/>
+          <GameObject name="T_sm_04a_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485630"/>
+        </GameObject>
+        <GameObject name="batchZone20" components="" id="-485166">
+          <GameObject name="T_sm_04a_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485156"/>
+          <GameObject name="T_sm_04a_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485274"/>
+          <GameObject name="T_sm_04a_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485284"/>
+          <GameObject name="T_sm_04a_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485294"/>
+          <GameObject name="T_sm_04a_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485304"/>
+          <GameObject name="T_sm_04a_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485314"/>
+          <GameObject name="T_sm_04a_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485324"/>
+          <GameObject name="T_sm_04b_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485506"/>
+          <GameObject name="T_sm_04b_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485516"/>
+          <GameObject name="T_sm_04b_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485526"/>
+          <GameObject name="T_sm_04b_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485536"/>
+          <GameObject name="T_sm_04b_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485546"/>
+          <GameObject name="T_sm_04b_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485556"/>
+          <GameObject name="T_sm_04b_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485570"/>
+        </GameObject>
+        <GameObject name="batchZone22" components="" id="-485344">
+          <GameObject name="T_sm_04b_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485334"/>
+          <GameObject name="T_sm_04b_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485348"/>
+          <GameObject name="T_sm_04a_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486768"/>
+          <GameObject name="T_sm_04a_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486778"/>
+        </GameObject>
+        <GameObject name="batchZone8" components="" id="-485502">
+          <GameObject name="guanmu01_008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485362"/>
+          <GameObject name="guanmu01_010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485372"/>
+          <GameObject name="guanmu01_011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485382"/>
+          <GameObject name="guanmu01_012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485392"/>
+          <GameObject name="guanmu02_016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485402"/>
+          <GameObject name="guanmu02_017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485412"/>
+          <GameObject name="guanmu03_007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485422"/>
+          <GameObject name="guanmu03_008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485432"/>
+          <GameObject name="guanmu03_011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485442"/>
+          <GameObject name="guanmu01_007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485452"/>
+          <GameObject name="guanmu02_015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485462"/>
+          <GameObject name="guanmu03_012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485472"/>
+          <GameObject name="guanmu02_011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485482"/>
+          <GameObject name="guanmu02_012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485492"/>
+          <GameObject name="guanmu01_020" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485644"/>
+          <GameObject name="guanmu01_021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485654"/>
+          <GameObject name="guanmu01_022" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485664"/>
+          <GameObject name="guanmu02_023" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485674"/>
+          <GameObject name="guanmu02_029" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485684"/>
+          <GameObject name="guanmu03_003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485694"/>
+          <GameObject name="guanmu03_005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485704"/>
+          <GameObject name="guanmu02_024" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485714"/>
+          <GameObject name="guanmu02_026" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485724"/>
+          <GameObject name="guanmu01_015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486718"/>
+          <GameObject name="guanmu01_016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486728"/>
+          <GameObject name="guanmu02_009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486738"/>
+          <GameObject name="guanmu02_010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486748"/>
+          <GameObject name="guanmu03_013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486758"/>
+          <GameObject name="guanmu01_004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486792"/>
+          <GameObject name="guanmu01_005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486802"/>
+          <GameObject name="guanmu01_006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486812"/>
+          <GameObject name="guanmu01_014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486822"/>
+          <GameObject name="guanmu02_007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486832"/>
+          <GameObject name="guanmu02_008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486842"/>
+          <GameObject name="guanmu03_014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486852"/>
+          <GameObject name="guanmu01_001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486866"/>
+          <GameObject name="guanmu01_040" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486876"/>
+          <GameObject name="guanmu02_018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486886"/>
+          <GameObject name="guanmu02_019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486896"/>
+          <GameObject name="guanmu02_025" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486906"/>
+          <GameObject name="guanmu02_028" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486916"/>
+          <GameObject name="guanmu01_003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486930"/>
+          <GameObject name="guanmu01_013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486940"/>
+          <GameObject name="guanmu02_003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486950"/>
+          <GameObject name="guanmu01_025" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486974"/>
+          <GameObject name="guanmu02_035" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486984"/>
+          <GameObject name="guanmu02_006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486998"/>
+          <GameObject name="guanmu03_015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487008"/>
+          <GameObject name="guanmu01_026" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491068"/>
+          <GameObject name="guanmu01_036" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491078"/>
+          <GameObject name="guanmu01_037" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491088"/>
+          <GameObject name="guanmu01_039" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491098"/>
+          <GameObject name="guanmu03_006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491108"/>
+          <GameObject name="guanmu01_023" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491122"/>
+          <GameObject name="guanmu01_024" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491132"/>
+          <GameObject name="guanmu01_027" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491142"/>
+          <GameObject name="guanmu02_020" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491152"/>
+          <GameObject name="guanmu02_033" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491162"/>
+          <GameObject name="guanmu02_034" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491172"/>
+          <GameObject name="guanmu01_017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491186"/>
+          <GameObject name="guanmu01_019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491196"/>
+          <GameObject name="guanmu01_038" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491206"/>
+          <GameObject name="guanmu02_021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491216"/>
+          <GameObject name="guanmu01_018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491230"/>
+          <GameObject name="guanmu01_032" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491240"/>
+          <GameObject name="guanmu01_033" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491250"/>
+          <GameObject name="guanmu01_034" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491260"/>
+          <GameObject name="guanmu01_035" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491270"/>
+          <GameObject name="guanmu02_022" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491280"/>
+          <GameObject name="guanmu02_027" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491290"/>
+          <GameObject name="guanmu02_032" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491300"/>
+          <GameObject name="guanmu01_028" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491314"/>
+          <GameObject name="guanmu01_029" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491324"/>
+          <GameObject name="guanmu01_030" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491334"/>
+          <GameObject name="guanmu01_031" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491344"/>
+          <GameObject name="guanmu02_030" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491354"/>
+          <GameObject name="guanmu02_031" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491364"/>
+        </GameObject>
+        <GameObject name="batchZone7" components="" id="-485768">
+          <GameObject name="B_wj_01_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485738"/>
+          <GameObject name="B_wj_02b_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485748"/>
+          <GameObject name="G_st_04_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485758"/>
+          <GameObject name="B_wj_02b_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485776"/>
+          <GameObject name="G_st_02_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485786"/>
+          <GameObject name="B_wj_02b_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485802"/>
+          <GameObject name="G_st_04_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485812"/>
+          <GameObject name="B_xwj_01_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485826"/>
+          <GameObject name="B_xwj_02_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485836"/>
+          <GameObject name="B_xwj_04_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485846"/>
+          <GameObject name="B_xwj_05_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485856"/>
+          <GameObject name="B_xwj_07_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485866"/>
+          <GameObject name="B_xwj_07_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485876"/>
+          <GameObject name="B_xwj_01_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485890"/>
+          <GameObject name="B_xwj_02_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485900"/>
+          <GameObject name="B_wj_01_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485914"/>
+          <GameObject name="B_wj_02b_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD|DragonBallObjLOD" id="-485924"/>
+          <GameObject name="dbyw_dizhuan" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485936"/>
+          <GameObject name="G_st_03_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485946"/>
+          <GameObject name="B_wj_01_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485960"/>
+          <GameObject name="G_st_01_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-485970"/>
+          <GameObject name="B_wj_01_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486068"/>
+          <GameObject name="B_wj_02b_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486078"/>
+          <GameObject name="G_st_03_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486088"/>
+          <GameObject name="B_wj_01_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486102"/>
+          <GameObject name="B_wj_02b_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486112"/>
+          <GameObject name="G_st_03_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486122"/>
+          <GameObject name="G_st_04_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486132"/>
+          <GameObject name="B_wj_02b_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486148"/>
+          <GameObject name="G_st_01_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486158"/>
+          <GameObject name="B_wj_02b_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486172"/>
+          <GameObject name="G_st_02_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486182"/>
+          <GameObject name="B_wj_01_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486192"/>
+          <GameObject name="B_wj_01_Y032" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486202"/>
+          <GameObject name="B_wj_01_Y033" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486212"/>
+          <GameObject name="B_wj_01_Y034" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486222"/>
+          <GameObject name="B_wj_01_Y035" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486232"/>
+          <GameObject name="B_wj_02b_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486246"/>
+          <GameObject name="B_wj_02b_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486256"/>
+          <GameObject name="G_st_01_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486266"/>
+          <GameObject name="G_st_03_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-486276"/>
+          <GameObject name="B_xwj_01_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487594"/>
+          <GameObject name="B_xwj_02_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487604"/>
+          <GameObject name="B_xwj_04_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487614"/>
+          <GameObject name="B_xwj_05_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487624"/>
+          <GameObject name="B_xwj_02_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487638"/>
+          <GameObject name="B_xwj_05_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487648"/>
+          <GameObject name="B_xwj_05_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487658"/>
+          <GameObject name="B_xwj_07_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487668"/>
+          <GameObject name="B_xwj_02_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487682"/>
+          <GameObject name="B_xwj_05_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487692"/>
+          <GameObject name="B_xwj_07_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487702"/>
+          <GameObject name="G_st_02_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487712"/>
+          <GameObject name="B_wj_01_Y019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487722"/>
+          <GameObject name="B_wj_01_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487736"/>
+          <GameObject name="B_wj_01_Y030" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487746"/>
+          <GameObject name="B_wj_01_Y031" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487756"/>
+          <GameObject name="B_wj_02b_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487766"/>
+          <GameObject name="G_st_02_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487776"/>
+          <GameObject name="B_wj_01_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487786"/>
+          <GameObject name="B_wj_01_Y021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487796"/>
+          <GameObject name="B_wj_01_Y023" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487806"/>
+          <GameObject name="B_wj_01_Y024" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487816"/>
+          <GameObject name="B_wj_01_Y025" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487826"/>
+          <GameObject name="B_wj_01_Y026" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487836"/>
+          <GameObject name="B_wj_01_Y027" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487846"/>
+          <GameObject name="B_wj_01_Y028" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487856"/>
+          <GameObject name="B_wj_01_Y029" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487866"/>
+          <GameObject name="B_wj_02b_Y019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487876"/>
+          <GameObject name="G_st_01_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487886"/>
+          <GameObject name="G_st_04_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487896"/>
+          <GameObject name="B_wj_01_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487910"/>
+          <GameObject name="B_wj_01_Y036" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487920"/>
+          <GameObject name="B_wj_01_Y037" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487930"/>
+          <GameObject name="B_wj_02b_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487940"/>
+          <GameObject name="B_wj_02b_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487950"/>
+          <GameObject name="G_st_03_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487960"/>
+          <GameObject name="B_wj_01_Y020" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487974"/>
+          <GameObject name="B_wj_01_Y022" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487984"/>
+          <GameObject name="B_wj_01_Y038" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487994"/>
+          <GameObject name="B_wj_02b_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488004"/>
+          <GameObject name="B_wj_02b_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488018"/>
+          <GameObject name="B_wj_02b_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488028"/>
+          <GameObject name="G_st_04_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488038"/>
+          <GameObject name="G_st_04_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488052"/>
+          <GameObject name="G_st_04_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488062"/>
+        </GameObject>
+        <GameObject name="batchZone14" components="" id="-487076">
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487056"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487088"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487112"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487136"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487160"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487184"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487208"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487232"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487256"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487288"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487312"/>
+          <GameObject name="T_sm_03a_Y" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487336"/>
+        </GameObject>
+        <GameObject name="batchZone15" components="" id="-487080">
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487066"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487098"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487122"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487146"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487170"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487194"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487218"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487242"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487266"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487298"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487322"/>
+          <GameObject name="T_sm_03a_Y_B" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487346"/>
+        </GameObject>
+        <GameObject name="batchZone19" components="" id="-487390">
+          <GameObject name="dbyw_songshu01_004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487360"/>
+          <GameObject name="dbyw_songshu01_006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487370"/>
+          <GameObject name="dbyw_songshu02_005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487380"/>
+          <GameObject name="dbyw_yeshu01_001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487398"/>
+          <GameObject name="dbyw_yeshu02_004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487408"/>
+          <GameObject name="dbyw_yeshu03_004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487418"/>
+          <GameObject name="dbyw_songshu01_016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487432"/>
+          <GameObject name="dbyw_songshu02_006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487442"/>
+          <GameObject name="dbyw_songshu02_007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487452"/>
+          <GameObject name="dbyw_songshu02_008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487462"/>
+          <GameObject name="dbyw_songshu01_001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487476"/>
+          <GameObject name="dbyw_songshu01_010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487486"/>
+          <GameObject name="dbyw_songshu01_007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487500"/>
+          <GameObject name="dbyw_songshu01_008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487510"/>
+          <GameObject name="dbyw_yeshu01_002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487560"/>
+          <GameObject name="dbyw_yeshu03_002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487570"/>
+          <GameObject name="dbyw_yeshu02_002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-487580"/>
+          <GameObject name="dbyw_songshu01_005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488076"/>
+          <GameObject name="dbyw_songshu02_004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488086"/>
+          <GameObject name="dbyw_songshu02_009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488096"/>
+          <GameObject name="dbyw_songshu02_010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488106"/>
+          <GameObject name="dbyw_songshu01_013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488120"/>
+          <GameObject name="dbyw_songshu01_015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488130"/>
+          <GameObject name="dbyw_songshu01_003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488144"/>
+          <GameObject name="dbyw_songshu01_009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488154"/>
+          <GameObject name="dbyw_songshu01_012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488164"/>
+          <GameObject name="dbyw_songshu02_001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488174"/>
+          <GameObject name="dbyw_songshu02_003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488184"/>
+          <GameObject name="dbyw_songshu01_011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488198"/>
+          <GameObject name="dbyw_songshu01_014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488208"/>
+          <GameObject name="dbyw_songshu02_011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488218"/>
+          <GameObject name="dbyw_songshu02_012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488228"/>
+        </GameObject>
+        <GameObject name="batchZone9" components="" id="-488248">
+          <GameObject name="T_gm_03_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488238"/>
+          <GameObject name="T_gm_03_Y036" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488252"/>
+          <GameObject name="T_gm_03_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488262"/>
+          <GameObject name="T_gm_03_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488272"/>
+          <GameObject name="T_gm_03_Y040" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488282"/>
+          <GameObject name="T_gm_03_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488292"/>
+          <GameObject name="T_gm_03_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488302"/>
+          <GameObject name="T_gm_03_Y053" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488312"/>
+          <GameObject name="T_gm_03_Y021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488322"/>
+          <GameObject name="T_gm_03_Y056" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488332"/>
+          <GameObject name="T_gm_03_Y060" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488342"/>
+          <GameObject name="T_gm_03_Y030" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488352"/>
+          <GameObject name="T_gm_03_Y049" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488362"/>
+          <GameObject name="T_gm_03_Y044" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488372"/>
+          <GameObject name="T_gm_03_Y062" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488382"/>
+          <GameObject name="T_gm_03_Y038" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488392"/>
+          <GameObject name="T_gm_03_Y058" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488402"/>
+          <GameObject name="T_gm_03_Y068" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488412"/>
+          <GameObject name="T_gm_03_Y045" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488422"/>
+          <GameObject name="T_gm_03_Y033" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488432"/>
+          <GameObject name="T_gm_03_Y063" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488442"/>
+          <GameObject name="T_gm_03_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488452"/>
+          <GameObject name="T_gm_03_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488462"/>
+          <GameObject name="T_gm_03_Y035" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488472"/>
+          <GameObject name="T_gm_03_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488482"/>
+          <GameObject name="T_gm_03_Y054" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488492"/>
+          <GameObject name="T_gm_04_Y044" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488930"/>
+          <GameObject name="T_gm_04_Y078" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488940"/>
+          <GameObject name="T_gm_04_Y034" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488950"/>
+          <GameObject name="T_gm_04_Y037" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488960"/>
+          <GameObject name="T_gm_04_Y089" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488970"/>
+          <GameObject name="T_gm_04_Y069" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488980"/>
+          <GameObject name="T_gm_04_Y054" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488990"/>
+          <GameObject name="T_gm_04_Y083" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489000"/>
+          <GameObject name="T_gm_04_Y068" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489010"/>
+          <GameObject name="T_gm_04_Y085" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489020"/>
+          <GameObject name="T_gm_04_Y091" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489030"/>
+          <GameObject name="T_gm_04_Y027" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489040"/>
+          <GameObject name="T_gm_04_Y075" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489050"/>
+          <GameObject name="T_gm_04_Y077" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489060"/>
+          <GameObject name="T_gm_04_Y092" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489070"/>
+          <GameObject name="T_gm_04_Y070" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489080"/>
+          <GameObject name="T_gm_04_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489090"/>
+          <GameObject name="T_gm_04_Y081" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489100"/>
+          <GameObject name="T_gm_04_Y082" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489110"/>
+          <GameObject name="T_gm_04_Y051" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489120"/>
+          <GameObject name="T_gm_04_Y040" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489130"/>
+          <GameObject name="T_gm_04_Y050" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489140"/>
+          <GameObject name="T_gm_04_Y086" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489150"/>
+          <GameObject name="T_gm_04_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489160"/>
+          <GameObject name="T_gm_04_Y049" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489170"/>
+          <GameObject name="T_gm_04_Y036" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489180"/>
+          <GameObject name="T_gm_04_Y043" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489190"/>
+          <GameObject name="T_gm_04_Y080" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489200"/>
+          <GameObject name="T_gm_04_Y098" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489210"/>
+          <GameObject name="T_gm_04_Y079" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489220"/>
+          <GameObject name="T_gm_04_Y094" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489230"/>
+          <GameObject name="T_gm_04_Y090" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489240"/>
+          <GameObject name="T_gm_04_Y053" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489250"/>
+          <GameObject name="T_gm_04_Y033" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489260"/>
+          <GameObject name="T_gm_04_Y097" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489270"/>
+          <GameObject name="T_gm_04_Y099" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489280"/>
+          <GameObject name="T_gm_02_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489604"/>
+          <GameObject name="T_gm_02_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489614"/>
+          <GameObject name="T_gm_02_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489624"/>
+          <GameObject name="T_gm_02_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489634"/>
+        </GameObject>
+        <GameObject name="batchZone11" components="" id="-488512">
+          <GameObject name="T_gm_03_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488502"/>
+          <GameObject name="T_gm_01_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489698"/>
+          <GameObject name="T_gm_01_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489708"/>
+          <GameObject name="T_gm_01_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489718"/>
+          <GameObject name="T_gm_01_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489728"/>
+          <GameObject name="T_gm_01_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489738"/>
+          <GameObject name="T_gm_01_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489748"/>
+          <GameObject name="T_gm_01_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489758"/>
+        </GameObject>
+        <GameObject name="batchZone10" components="" id="-488526">
+          <GameObject name="T_gm_02_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488516"/>
+          <GameObject name="T_gm_04_Y072_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488530"/>
+          <GameObject name="T_gm_04_Y084_2 (1)" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488540"/>
+          <GameObject name="T_gm_04_Y035_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488550"/>
+          <GameObject name="T_gm_04_Y042_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488560"/>
+          <GameObject name="T_gm_04_Y058_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488570"/>
+          <GameObject name="T_gm_04_Y032_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488580"/>
+          <GameObject name="T_gm_04_Y039_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488590"/>
+          <GameObject name="T_gm_04_Y074_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488600"/>
+          <GameObject name="T_gm_04_Y007_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488610"/>
+          <GameObject name="T_gm_04_Y019_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488620"/>
+          <GameObject name="T_gm_04_Y023_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488630"/>
+          <GameObject name="T_gm_04_Y055_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488640"/>
+          <GameObject name="T_gm_04_Y095_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488650"/>
+          <GameObject name="T_gm_04_Y028_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488660"/>
+          <GameObject name="T_gm_04_Y056_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488670"/>
+          <GameObject name="T_gm_04_Y071_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488680"/>
+          <GameObject name="T_gm_04_Y084_2 (2)" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488690"/>
+          <GameObject name="T_gm_04_Y006_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488700"/>
+          <GameObject name="T_gm_04_Y046_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488710"/>
+          <GameObject name="T_gm_04_Y011_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488720"/>
+          <GameObject name="T_gm_04_Y096_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488730"/>
+          <GameObject name="T_gm_04_Y002_1" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488740"/>
+          <GameObject name="T_gm_04_Y087_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488750"/>
+          <GameObject name="T_gm_04_Y010_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488760"/>
+          <GameObject name="T_gm_04_Y029_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488770"/>
+          <GameObject name="T_gm_04_Y057_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488780"/>
+          <GameObject name="T_gm_04_Y022_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488790"/>
+          <GameObject name="T_gm_04_Y084_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488800"/>
+          <GameObject name="T_gm_04_Y059_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488810"/>
+          <GameObject name="T_gm_04_Y017_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488820"/>
+          <GameObject name="T_gm_04_Y014_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488830"/>
+          <GameObject name="T_gm_04_Y073_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488840"/>
+          <GameObject name="T_gm_04_Y076_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488850"/>
+          <GameObject name="T_gm_04_Y001_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488860"/>
+          <GameObject name="T_gm_04_Y088_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488870"/>
+          <GameObject name="T_gm_04_Y020_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488880"/>
+          <GameObject name="T_gm_04_Y052_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488890"/>
+          <GameObject name="T_gm_04_Y021_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488900"/>
+          <GameObject name="T_gm_04_Y041_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488910"/>
+          <GameObject name="T_gm_04_Y031_2" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-488920"/>
+          <GameObject name="T_gm_03_Y028" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489324"/>
+          <GameObject name="T_gm_03_Y048" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489334"/>
+          <GameObject name="T_gm_03_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489344"/>
+          <GameObject name="T_gm_03_Y070" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489354"/>
+          <GameObject name="T_gm_03_Y072" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489364"/>
+          <GameObject name="T_gm_03_Y066" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489374"/>
+          <GameObject name="T_gm_03_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489384"/>
+          <GameObject name="T_gm_03_Y034" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489394"/>
+          <GameObject name="T_gm_03_Y024" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489404"/>
+          <GameObject name="T_gm_03_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489414"/>
+          <GameObject name="T_gm_03_Y019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489424"/>
+          <GameObject name="T_gm_03_Y052" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489434"/>
+          <GameObject name="T_gm_03_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489444"/>
+          <GameObject name="T_gm_03_Y037" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489454"/>
+          <GameObject name="T_gm_03_Y064" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489464"/>
+          <GameObject name="T_gm_03_Y055" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489474"/>
+          <GameObject name="T_gm_03_Y069" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489484"/>
+          <GameObject name="T_gm_03_Y039" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489494"/>
+          <GameObject name="T_gm_03_Y067" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489504"/>
+          <GameObject name="T_gm_03_Y031" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489514"/>
+          <GameObject name="T_gm_03_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489524"/>
+          <GameObject name="T_gm_03_Y022" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489534"/>
+          <GameObject name="T_gm_03_Y071" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489544"/>
+          <GameObject name="T_gm_03_Y065" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489554"/>
+          <GameObject name="T_gm_03_Y047" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489564"/>
+          <GameObject name="T_gm_03_Y061" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489574"/>
+          <GameObject name="T_gm_03_Y029" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489584"/>
+          <GameObject name="T_gm_03_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489594"/>
+        </GameObject>
+        <GameObject name="batchZone12" components="" id="-489300">
+          <GameObject name="T_gm_01_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489290"/>
+          <GameObject name="T_gm_01_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489304"/>
+          <GameObject name="T_gm_01_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489314"/>
+        </GameObject>
+        <GameObject name="batchZone13" components="" id="-489806">
+          <GameObject name="T_zw_01_Y029" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489774"/>
+          <GameObject name="T_zw_02_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489782"/>
+          <GameObject name="T_zw_02_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489790"/>
+          <GameObject name="T_zw_05_Y036" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489798"/>
+          <GameObject name="T_zw_01_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489822"/>
+          <GameObject name="T_zw_01_Y019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489832"/>
+          <GameObject name="T_zw_01_Y020" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489842"/>
+          <GameObject name="T_zw_01_Y021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489852"/>
+          <GameObject name="T_zw_03_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489862"/>
+          <GameObject name="T_zw_03_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489872"/>
+          <GameObject name="T_zw_03_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489882"/>
+          <GameObject name="T_zw_05_Y020" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489892"/>
+          <GameObject name="T_zw_05_Y021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489902"/>
+          <GameObject name="T_zw_05_Y023" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489912"/>
+          <GameObject name="T_zw_01_Y026" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489928"/>
+          <GameObject name="T_zw_01_Y027" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489936"/>
+          <GameObject name="T_zw_05_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489944"/>
+          <GameObject name="T_zw_05_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489952"/>
+          <GameObject name="T_zw_05_Y040" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489960"/>
+          <GameObject name="T_zw_05_Y041" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489968"/>
+          <GameObject name="T_zw_01_Y031" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-489994"/>
+          <GameObject name="T_zw_02_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490002"/>
+          <GameObject name="T_zw_02_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490010"/>
+          <GameObject name="T_zw_02_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490018"/>
+          <GameObject name="T_zw_03_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490026"/>
+          <GameObject name="T_zw_05_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490034"/>
+          <GameObject name="T_zw_05_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490042"/>
+          <GameObject name="T_zw_05_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490050"/>
+          <GameObject name="T_zw_05_Y037" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490058"/>
+          <GameObject name="T_zw_05_Y038" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490066"/>
+          <GameObject name="T_zw_05_Y039" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490074"/>
+          <GameObject name="T_zw_02_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490186"/>
+          <GameObject name="T_zw_02_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490196"/>
+          <GameObject name="T_zw_02_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490206"/>
+          <GameObject name="T_zw_02_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490216"/>
+          <GameObject name="T_zw_05_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490226"/>
+          <GameObject name="T_zw_05_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490236"/>
+          <GameObject name="T_zw_05_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490246"/>
+          <GameObject name="T_zw_05_Y034" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490256"/>
+          <GameObject name="T_zw_05_Y035" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490266"/>
+          <GameObject name="T_zw_01_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490280"/>
+          <GameObject name="T_zw_04_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490290"/>
+          <GameObject name="T_zw_04_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490300"/>
+          <GameObject name="T_zw_04_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490310"/>
+          <GameObject name="T_zw_04_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490320"/>
+          <GameObject name="T_zw_04_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490330"/>
+          <GameObject name="T_zw_04_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490340"/>
+          <GameObject name="T_zw_04_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490350"/>
+          <GameObject name="T_zw_04_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490360"/>
+          <GameObject name="T_zw_04_Y017" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490370"/>
+          <GameObject name="T_zw_04_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490380"/>
+          <GameObject name="T_zw_04_Y019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490390"/>
+          <GameObject name="T_zw_04_Y020" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490400"/>
+          <GameObject name="T_zw_04_Y021" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490410"/>
+          <GameObject name="T_zw_05_Y022" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490420"/>
+          <GameObject name="T_zw_05_Y026" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490430"/>
+          <GameObject name="T_zw_01_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490444"/>
+          <GameObject name="T_zw_01_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490454"/>
+          <GameObject name="T_zw_01_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490464"/>
+          <GameObject name="T_zw_01_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490474"/>
+          <GameObject name="T_zw_01_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490484"/>
+          <GameObject name="T_zw_01_Y015" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490494"/>
+          <GameObject name="T_zw_01_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490504"/>
+          <GameObject name="T_zw_03_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490514"/>
+          <GameObject name="T_zw_03_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490524"/>
+          <GameObject name="T_zw_03_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490534"/>
+          <GameObject name="T_zw_03_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490544"/>
+          <GameObject name="T_zw_04_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490554"/>
+          <GameObject name="T_zw_04_Y003" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490564"/>
+          <GameObject name="T_zw_04_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490574"/>
+          <GameObject name="T_zw_04_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490584"/>
+          <GameObject name="T_zw_05_Y027" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490594"/>
+          <GameObject name="T_zw_05_Y028" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490604"/>
+          <GameObject name="T_zw_05_Y030" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490614"/>
+          <GameObject name="T_zw_05_Y033" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490624"/>
+          <GameObject name="T_zw_01_Y022" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490638"/>
+          <GameObject name="T_zw_02_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490648"/>
+          <GameObject name="T_zw_02_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490658"/>
+          <GameObject name="T_zw_02_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490668"/>
+          <GameObject name="T_zw_03_Y002" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490678"/>
+          <GameObject name="T_zw_03_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490688"/>
+          <GameObject name="T_zw_03_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490698"/>
+          <GameObject name="T_zw_05_Y016" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490708"/>
+          <GameObject name="T_zw_05_Y018" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490718"/>
+          <GameObject name="T_zw_05_Y019" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490728"/>
+          <GameObject name="T_zw_05_Y024" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490738"/>
+          <GameObject name="T_zw_05_Y025" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490748"/>
+          <GameObject name="T_zw_01_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490762"/>
+          <GameObject name="T_zw_01_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490772"/>
+          <GameObject name="T_zw_01_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490782"/>
+          <GameObject name="T_zw_01_Y007" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490792"/>
+          <GameObject name="T_zw_01_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490802"/>
+          <GameObject name="T_zw_01_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490812"/>
+          <GameObject name="T_zw_01_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490822"/>
+          <GameObject name="T_zw_04_Y001" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490832"/>
+          <GameObject name="T_zw_04_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490842"/>
+          <GameObject name="T_zw_04_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490852"/>
+          <GameObject name="T_zw_04_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490862"/>
+          <GameObject name="T_zw_05_Y031" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490872"/>
+          <GameObject name="T_zw_05_Y032" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490882"/>
+          <GameObject name="T_zw_01_Y023" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490898"/>
+          <GameObject name="T_zw_01_Y024" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490906"/>
+          <GameObject name="T_zw_02_Y012" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490914"/>
+          <GameObject name="T_zw_02_Y013" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490922"/>
+          <GameObject name="T_zw_05_Y005" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490930"/>
+          <GameObject name="T_zw_05_Y006" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490938"/>
+          <GameObject name="T_zw_05_Y042" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490946"/>
+          <GameObject name="T_zw_02_Y011" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490954"/>
+          <GameObject name="T_zw_01_Y025" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490984"/>
+          <GameObject name="T_zw_01_Y028" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490992"/>
+          <GameObject name="T_zw_01_Y030" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491000"/>
+          <GameObject name="T_zw_02_Y014" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491008"/>
+          <GameObject name="T_zw_05_Y004" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491016"/>
+          <GameObject name="T_zw_05_Y008" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491024"/>
+          <GameObject name="T_zw_05_Y009" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491032"/>
+          <GameObject name="T_zw_05_Y010" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-491040"/>
+        </GameObject>
+      </GameObject>
+      <GameObject name="NonStatic_0" components="" id="-482764">
+        <GameObject name="dbyw_stone01_035" components="MeshFilter|MeshRenderer" id="-482796"/>
+        <GameObject name="dbyw_shiqiao" components="MeshFilter|MeshRenderer" id="-483218"/>
+        <GameObject name="sky_01_1" components="MeshFilter|MeshRenderer" id="-483278"/>
+        <GameObject name="new_dbyw_shuimian_b5" components="MeshFilter|MeshRenderer" id="-483790"/>
+        <GameObject name="new_dbyw_shuimian_b4" components="MeshFilter|MeshRenderer" id="-483798"/>
+        <GameObject name="N_dbyw_haimian1" components="MeshFilter|MeshRenderer" id="-483806"/>
+        <GameObject name="dbyw_pubu_02" components="MeshFilter|MeshRenderer" id="-483814"/>
+        <GameObject name="Main_Camera" components="Camera|GUILayer|FlareLayer|AudioListener|FxPro|CameraObjDisHelper|CameraController|BoxCollider|Rigidbody|DBImageEffectAntialiasing" id="-483822"/>
+        <GameObject name="dbyw_pubu_01" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-483844"/>
+        <GameObject name="c_yan (2)" components="DragonBallObjLOD" id="-486286">
+          <GameObject name="r" components="MeshFilter|MeshRenderer|Animator|PJBillBoard|DragonBallObjLOD" id="-486292"/>
+        </GameObject>
+        <GameObject name="c_yan" components="DragonBallObjLOD" id="-486306">
+          <GameObject name="r" components="MeshFilter|MeshRenderer|Animator|PJBillBoard|DragonBallObjLOD" id="-486312"/>
+        </GameObject>
+        <GameObject name="c_yan (1)" components="DragonBallObjLOD" id="-486326">
+          <GameObject name="r" components="MeshFilter|MeshRenderer|Animator|PJBillBoard|DragonBallObjLOD" id="-486332"/>
+        </GameObject>
+        <GameObject name="c_yan (3)" components="DragonBallObjLOD" id="-486346">
+          <GameObject name="r" components="MeshFilter|MeshRenderer|Animator|PJBillBoard|DragonBallObjLOD" id="-486352"/>
+        </GameObject>
+        <GameObject name="c_yan (4)" components="DragonBallObjLOD" id="-486366">
+          <GameObject name="r" components="MeshFilter|MeshRenderer|Animator|PJBillBoard|DragonBallObjLOD" id="-486372"/>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_shitoushuihua (5)" components="DragonBallObjLOD" id="-486386">
+          <GameObject name="shuihua" components="ParticleSystem|ParticleSystemRenderer" id="-486392">
+            <GameObject name="shuihua1" components="ParticleSystem|ParticleSystemRenderer" id="-486400"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_shitoushuihua" components="DragonBallObjLOD" id="-486408">
+          <GameObject name="shuihua" components="ParticleSystem|ParticleSystemRenderer" id="-486414">
+            <GameObject name="shuihua1" components="ParticleSystem|ParticleSystemRenderer" id="-486422"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_shitoushuihua (1)" components="DragonBallObjLOD" id="-486430">
+          <GameObject name="shuihua" components="ParticleSystem|ParticleSystemRenderer" id="-486436">
+            <GameObject name="shuihua1" components="ParticleSystem|ParticleSystemRenderer" id="-486444"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_shitoushuihua (2)" components="DragonBallObjLOD" id="-486452">
+          <GameObject name="shuihua" components="ParticleSystem|ParticleSystemRenderer" id="-486458">
+            <GameObject name="shuihua1" components="ParticleSystem|ParticleSystemRenderer" id="-486466"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_shitoushuihua (4)" components="DragonBallObjLOD" id="-486474">
+          <GameObject name="shuihua" components="ParticleSystem|ParticleSystemRenderer" id="-486480">
+            <GameObject name="shuihua1" components="ParticleSystem|ParticleSystemRenderer" id="-486488"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_shitoushuihua (3)" components="DragonBallObjLOD" id="-486496">
+          <GameObject name="shuihua" components="ParticleSystem|ParticleSystemRenderer" id="-486502">
+            <GameObject name="shuihua1" components="ParticleSystem|ParticleSystemRenderer" id="-486510"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_sence_luoye (2)" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486518"/>
+        <GameObject name="ef_ty_sence_luoye (1)" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486528"/>
+        <GameObject name="ef_ty_sence_luoye" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486538"/>
+        <GameObject name="ef_ty_sence_luoye (3)" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486548"/>
+        <GameObject name="ef_ty_sence_hudie (1)" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486558"/>
+        <GameObject name="ef_ty_sence_hudie (2)" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486568"/>
+        <GameObject name="ef_ty_sence_hudie" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486578"/>
+        <GameObject name="ef_ty_sence_hudie (3)" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486588"/>
+        <GameObject name="ef_ty_dbyw_pubu3" components="" id="-486598">
+          <GameObject name="shuiquan" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486602">
+            <GameObject name="wuqi" components="ParticleSystem|ParticleSystemRenderer" id="-486612"/>
+            <GameObject name="shuibo2" components="ParticleSystem|ParticleSystemRenderer" id="-486620"/>
+            <GameObject name="shuibo" components="ParticleSystem|ParticleSystemRenderer" id="-486628"/>
+          </GameObject>
+          <GameObject name="shuiwu1" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486636">
+            <GameObject name="shuiwu2" components="ParticleSystem|ParticleSystemRenderer" id="-486646"/>
+          </GameObject>
+          <GameObject name="shuiwu13" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486654"/>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_pubu" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486664">
+          <GameObject name="wuqi" components="ParticleSystem|ParticleSystemRenderer" id="-486674"/>
+          <GameObject name="shuibo2" components="ParticleSystem|ParticleSystemRenderer" id="-486682"/>
+          <GameObject name="shuibo" components="ParticleSystem|ParticleSystemRenderer" id="-486690"/>
+          <GameObject name="shuiwu1" components="ParticleSystem|ParticleSystemRenderer" id="-486698">
+            <GameObject name="shuiwu2" components="ParticleSystem|ParticleSystemRenderer" id="-486706"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_ty_dbyw_feng" components="ParticleSystem|ParticleSystemRenderer|DragonBallObjLOD" id="-486960"/>
+        <GameObject name="sun_001" components="" id="-487018">
+          <GameObject name="IslandDemoSun" components="ProFlare" id="-487022"/>
+          <GameObject name="ProFlareSetup" components="" id="-487028">
+            <GameObject name="ProFlareCamera" components="Camera" id="-487032">
+              <GameObject name="ProFlareBatch (fangan_001)" components="MeshRenderer|MeshFilter|ProFlareBatch" id="-487038">
+                <GameObject name="_HelperTransform" components="" id="-487048"/>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ef_dbyw_pubu2" components="DragonBallObjLOD" id="-489644">
+          <GameObject name="shuiquan" components="ParticleSystem|ParticleSystemRenderer" id="-489650">
+            <GameObject name="wuqi" components="ParticleSystem|ParticleSystemRenderer" id="-489658"/>
+            <GameObject name="shuibo2" components="ParticleSystem|ParticleSystemRenderer" id="-489666"/>
+            <GameObject name="shuibo" components="ParticleSystem|ParticleSystemRenderer" id="-489674"/>
+            <GameObject name="shuiwu1" components="ParticleSystem|ParticleSystemRenderer" id="-489682">
+              <GameObject name="shuiwu2" components="ParticleSystem|ParticleSystemRenderer" id="-489690"/>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+        <GameObject name="N_xsyw_bolang" components="" id="-490104">
+          <GameObject name="new_xsyw_shuimian_b1" components="MeshFilter|MeshRenderer|DragonBallObjLOD" id="-490108"/>
+          <GameObject name="new_xsyw_shuimian_b2" components="MeshFilter|MeshRenderer" id="-490118"/>
+          <GameObject name="new_xsyw_shuimian_b3" components="MeshFilter|MeshRenderer" id="-490126"/>
+          <GameObject name="new_xsyw_shuimian_b6" components="MeshFilter|MeshRenderer" id="-490134"/>
+          <GameObject name="new_xsyw_shuimian_b7" components="MeshFilter|MeshRenderer" id="-490142"/>
+          <GameObject name="new_xsyw_shuimian_b8" components="MeshFilter|MeshRenderer" id="-490150"/>
+          <GameObject name="new_xsyw_shuimian_b9" components="MeshFilter|MeshRenderer" id="-490158"/>
+          <GameObject name="new_xsyw_shuimian_b10" components="MeshFilter|MeshRenderer" id="-490166"/>
+          <GameObject name="new_xsyw_shuimian_b11" components="MeshFilter|MeshRenderer" id="-490174"/>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+  </GameObject>
+  <GameObject name="DramaTipsRawCharactor" components="DontDestroyOnLoad" id="-382802"/>
+  <GameObject name="RTRoot" components="DontDestroyOnLoad" id="-382726"/>
+  <GameObject name="__GiantSDK(Singleton)" components="GiantSDK_Android" id="-102762"/>
+  <GameObject name="DramaAction(Singleton)" components="DramaAction" id="-53112"/>
+  <GameObject name="InputController(Singleton)" components="InputController|LineRenderer" id="-27808"/>
+  <GameObject name="[DOTween]" components="DOTweenComponent" id="-27802"/>
+  <GameObject name="KeyboardManager(Singleton)" components="KeyboardManager" id="-12198"/>
+  <GameObject name="GameTime(Singleton)" components="GameTime" id="-12190"/>
+  <GameObject name="PlayMovieManager(Singleton)" components="PlayMovieManager" id="-12172"/>
+  <GameObject name="LoadGameMain" components="LoadGameMain|GameMain|ResourceManager" id="-12162"/>
+  <GameObject name="__GiantSDK(Singleton)" components="DBGiantSDKMgr" id="-10780"/>
+  <GameObject name="HttpDownloadManager(Singleton)" components="HttpDownloadManager" id="-10300"/>
+  <GameObject name="gameListener" components="AkAudioListener|gameListener" id="-10284">
+    <GameObject name="defaultWwiseGo" components="MyAkGo" id="-10292"/>
+  </GameObject>
+  <GameObject name="WwiseInitializer" components="AkTerminator|AkInitializer" id="-10276"/>
+  <GameObject name="DBGameAnalyticsManager(Singleton)" components="DBGameAnalyticsManager" id="-10270"/>
+  <GameObject name="Launch" components="Host|U3DAutomationBehaviour" id="10062"/>
+  <GameObject name="SchedulerRoot" components="DontDestroyOnLoad|SchedulerRoot" id="10076"/>
+  <GameObject name="ObjectPoolRoot" components="DontDestroyOnLoad" id="10086">
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-93972">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-93976"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-185728">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-185732"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-223974">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-223978"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-243748">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-243752"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-277636">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-277640"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-463356">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-463360"/>
+    </GameObject>
+    <GameObject name="&#23041;&#20005;&#33406;&#20025;-1878030" components="Animator|CapsuleCollider|MyAkGo" id="-476934">
+      <GameObject name="Bip001 L Hand" components="" id="-476940"/>
+      <GameObject name="Bip001 R Hand" components="" id="-476944">
+        <GameObject name="shou" components="" id="-476986"/>
+      </GameObject>
+      <GameObject name="Dummy001" components="" id="-476948">
+        <GameObject name="top" components="" id="-476978"/>
+        <GameObject name="selectpos" components="" id="-476990"/>
+      </GameObject>
+      <GameObject name="mgod01_m01" components="SkinnedMeshRenderer" id="-476952"/>
+      <GameObject name="feet" components="" id="-476974">
+        <GameObject name="c_lz_quan(Clone)" components="ResetEffectSize" id="-458992">
+          <GameObject name="01" components="Animation" id="-458998">
+            <GameObject name="2" components="MeshFilter|MeshRenderer" id="-459004"/>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+      <GameObject name="hit" components="" id="-476982"/>
+    </GameObject>
+    <GameObject name="sceneniao" components="Animator" id="-491456">
+      <GameObject name="sceneniao_m01" components="SkinnedMeshRenderer" id="-491462"/>
+    </GameObject>
+    <GameObject name="sceneniao1" components="Animator" id="-491468">
+      <GameObject name="sceneniao_m01" components="SkinnedMeshRenderer" id="-491474"/>
+    </GameObject>
+    <GameObject name="scenerabbit" components="Animator" id="-491492">
+      <GameObject name="scenerabbit_m01" components="SkinnedMeshRenderer" id="-491498"/>
+    </GameObject>
+    <GameObject name="scenerabbit1" components="Animator" id="-491504">
+      <GameObject name="scenerabbit_m01" components="SkinnedMeshRenderer" id="-491510"/>
+    </GameObject>
+    <GameObject name="scenerabbit2" components="Animator" id="-491516">
+      <GameObject name="scenerabbit_m01" components="SkinnedMeshRenderer" id="-491522"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-501182">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-501186"/>
+    </GameObject>
+    <GameObject name="ef_ty_guangqiang(Clone)" components="" id="-521146">
+      <GameObject name="diwen" components="MeshFilter|MeshRenderer" id="-521150"/>
+    </GameObject>
+    <GameObject name="NPC111&#28023;&#40863;10000146" components="Animator|CapsuleCollider" id="-539060">
+      <GameObject name="turtle_m01" components="SkinnedMeshRenderer" id="-539066"/>
+      <GameObject name="feet" components="" id="-539358"/>
+      <GameObject name="top" components="" id="-539362"/>
+      <GameObject name="selectpos" components="" id="-539366"/>
+    </GameObject>
+    <GameObject name="NPC110&#28023;&#40863;10000145" components="Animator|CapsuleCollider" id="-539072">
+      <GameObject name="turtle_m01" components="SkinnedMeshRenderer" id="-539078"/>
+      <GameObject name="feet" components="" id="-539374"/>
+      <GameObject name="top" components="" id="-539378"/>
+      <GameObject name="selectpos" components="" id="-539382"/>
+    </GameObject>
+    <GameObject name="NPC11310000148" components="Animator|CapsuleCollider" id="-539224">
+      <GameObject name="Dummy001" components="" id="-539230">
+        <GameObject name="dri" components="" id="-539252"/>
+        <GameObject name="pass0" components="" id="-539256"/>
+      </GameObject>
+      <GameObject name="jdw_m01" components="SkinnedMeshRenderer" id="-539234"/>
+      <GameObject name="feet" components="" id="-539244"/>
+      <GameObject name="top" components="" id="-539248"/>
+      <GameObject name="selectpos" components="" id="-539260"/>
+    </GameObject>
+    <GameObject name="NPC112&#40863;&#20185;&#20154;10000147" components="Animator|CapsuleCollider" id="-539298">
+      <GameObject name="Bip001 L Hand" components="" id="-539304">
+        <GameObject name="shou" components="" id="-539338"/>
+      </GameObject>
+      <GameObject name="Bip001 R Hand" components="" id="-539308">
+        <GameObject name="rshou" components="" id="-539342"/>
+      </GameObject>
+      <GameObject name="Dummy001" components="" id="-539312">
+        <GameObject name="top" components="" id="-539330"/>
+        <GameObject name="selectpos" components="" id="-539350"/>
+      </GameObject>
+      <GameObject name="mr_m01" components="SkinnedMeshRenderer" id="-539316"/>
+      <GameObject name="feet" components="" id="-539326"/>
+      <GameObject name="hit" components="" id="-539334"/>
+      <GameObject name="shouzhang" components="" id="-539346"/>
+    </GameObject>
+    <GameObject name="cs07_blm(Clone)" components="Animator" id="-547130">
+      <GameObject name="blm:body_geo" components="SkinnedMeshRenderer" id="-547136">
+        <GameObject name="feet" components="" id="-547290"/>
+        <GameObject name="hit" components="" id="-547298"/>
+      </GameObject>
+      <GameObject name="blm:head_geo" components="SkinnedMeshRenderer" id="-547142">
+        <GameObject name="top" components="" id="-547294"/>
+      </GameObject>
+      <GameObject name="zhongxin" components="" id="-547302"/>
+    </GameObject>
+    <GameObject name="cs07_turtle(Clone)" components="Animator" id="-547160">
+      <GameObject name="turtle:turtle_geo" components="SkinnedMeshRenderer" id="-547166">
+        <GameObject name="feet" components="" id="-547308"/>
+        <GameObject name="top" components="" id="-547312"/>
+      </GameObject>
+    </GameObject>
+    <GameObject name="cs07_mgod(Clone)" components="Animator" id="-547190">
+      <GameObject name="mgod:body_geo" components="SkinnedMeshRenderer" id="-547196">
+        <GameObject name="feet" components="" id="-547322"/>
+        <GameObject name="hit" components="" id="-547330"/>
+      </GameObject>
+      <GameObject name="mgod:mgod_head_geo" components="SkinnedMeshRenderer" id="-547202">
+        <GameObject name="top" components="" id="-547326"/>
+      </GameObject>
+      <GameObject name="zhongxin" components="" id="-547334"/>
+      <GameObject name="weiba" components="" id="-547338"/>
+    </GameObject>
+    <GameObject name="cs07_mr(Clone)" components="Animator" id="-547234">
+      <GameObject name="mr:body_geo" components="SkinnedMeshRenderer" id="-547240">
+        <GameObject name="feet" components="" id="-547348"/>
+        <GameObject name="hit" components="" id="-547356"/>
+      </GameObject>
+      <GameObject name="mr:head_geo" components="SkinnedMeshRenderer" id="-547246">
+        <GameObject name="top" components="" id="-547352"/>
+      </GameObject>
+      <GameObject name="mr:sk_Wrist_L" components="" id="-547252"/>
+      <GameObject name="mr:sk_Wrist_R" components="" id="-547256"/>
+    </GameObject>
+    <GameObject name="cs07_jdw(Clone)" components="Animator" id="-547272">
+      <GameObject name="kto_m02:jdw_m01" components="SkinnedMeshRenderer" id="-547278">
+        <GameObject name="body" components="" id="-547374">
+          <GameObject name="ef_cs_07_jdw_water_01(Clone)" components="" id="-547424">
+            <GameObject name="water" components="" id="-547428">
+              <GameObject name="ef_cs_water_01_l" components="MeshFilter|MeshRenderer" id="-547432"/>
+              <GameObject name="ef_cs_water_02" components="MeshFilter|MeshRenderer" id="-547444"/>
+              <GameObject name="ef_cs_water_03" components="MeshFilter|MeshRenderer" id="-547456"/>
+              <GameObject name="particle_1" components="ParticleSystem|ParticleSystemRenderer" id="-547468"/>
+              <GameObject name="particle_2" components="ParticleSystem|ParticleSystemRenderer" id="-547476"/>
+              <GameObject name="mesh_water_1" components="ParticleSystem|ParticleSystemRenderer" id="-547484"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="ef_cs_07_jdw_water_01_l(Clone)" components="" id="-547740">
+            <GameObject name="water" components="" id="-547744">
+              <GameObject name="ef_cs_water_01_l" components="MeshFilter|MeshRenderer" id="-547748"/>
+              <GameObject name="ef_cs_water_02_l" components="MeshFilter|MeshRenderer" id="-547758"/>
+              <GameObject name="ef_cs_water_03_l" components="MeshFilter|MeshRenderer" id="-547768"/>
+              <GameObject name="particle_1" components="ParticleSystem|ParticleSystemRenderer" id="-547778"/>
+              <GameObject name="particle_2" components="ParticleSystem|ParticleSystemRenderer" id="-547786"/>
+              <GameObject name="mesh_water_1" components="ParticleSystem|ParticleSystemRenderer" id="-547794"/>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+      <GameObject name="feet" components="" id="-547362"/>
+      <GameObject name="top" components="" id="-547366"/>
+      <GameObject name="weiba" components="" id="-547370"/>
+    </GameObject>
+  </GameObject>
+  <GameObject name="UIRoot" components="Canvas|GraphicRaycaster|CanvasScaler|DontDestroyOnLoad|ResolutionManager" id="10028">
+    <GameObject name="Camera" components="Camera|FlareLayer|GUILayer" id="10128"/>
+    <GameObject name="EventSystem" components="EventSystem|StandaloneInputModule|TouchInputModule" id="10116"/>
+    <GameObject name="LayerMap" components="Canvas|GraphicRaycaster" id="10018">
+      <GameObject name="UI_Map" components="UIIdentifier|TweenGroup|UIDepth|Canvas|GraphicRaycaster" id="-422568">
+        <GameObject name="Offset_Map" components="" id="-422576">
+          <GameObject name="Panel_MiniMap" components="TweenPositionAnchor|TweenPositionAnchor" id="-422580">
+            <GameObject name="PanelMap" components="CanvasRenderer|LayoutElement|UIEventListener" id="-422588">
+              <GameObject name="map" components="CanvasRenderer|ScrollRect|Image|Mask" id="-422596" img="mapmask">
+                <GameObject name="map_bg" components="CanvasRenderer|RawImage" id="-422608" img="dbyw_map"/>
+                <GameObject name="loaction" components="CanvasRenderer|Canvas" id="-422616">
+                  <GameObject name="ic0126(Clone)" components="CanvasRenderer|Image|UIEventListener" id="-539036" img="ic0126"/>
+                  <GameObject name="img_me(Clone)" components="CanvasRenderer|Image|UIEventListener" id="-539264" img="ic0082"/>
+                  <GameObject name="img_point(Clone)" components="CanvasRenderer|Image|UIEventListener" id="-544664" img="ic0141"/>
+                  <GameObject name="ic0126(Clone)" components="CanvasRenderer|Image|UIEventListener" id="-545594" img="ic0126"/>
+                  <GameObject name="img_no(Clone)" components="CanvasRenderer|Image|UIEventListener" id="-545604" img="ic0086"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="img_bg" components="CanvasRenderer|Image" id="-422624" img="main_map"/>
+            </GameObject>
+            <GameObject name="Panel_Info" components="CanvasRenderer|LayoutElement" id="-422770">
+              <GameObject name="Panel_Line" components="CanvasRenderer|LayoutElement|Button|Image|HorizontalLayoutGroup|ContentSizeFitter|UIButtonDelay" id="-422778" img="map_1">
+                <GameObject name="Text" components="CanvasRenderer|Text|LayoutElement|TextFontName" id="-422810" txt="&#19996;&#37096;&#37326;&#22806;"/>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="LayerMain" components="Canvas|GraphicRaycaster" id="10052">
+      <GameObject name="UI_Main" components="UIIdentifier|TweenGroup|UIDepth|Canvas|GraphicRaycaster" id="-450136">
+        <GameObject name="Offset_Main" components="" id="-450144">
+          <GameObject name="PanelPersonal" components="CanvasRenderer|TweenPositionAnchor" id="-450148">
+            <GameObject name="img_namebg" components="CanvasRenderer|Image" id="-450156" img="main_6"/>
+            <GameObject name="hp" components="CanvasGroup|UISlider" id="-450164">
+              <GameObject name="FillArea" components="" id="-450172">
+                <GameObject name="Fill" components="CanvasRenderer|Image" id="-450176" img="main_5"/>
+              </GameObject>
+            </GameObject>
+            <GameObject name="mp" components="CanvasGroup|UISlider" id="-450184">
+              <GameObject name="FillArea" components="" id="-450192">
+                <GameObject name="Fill" components="CanvasRenderer|Image" id="-450196" img="main_4"/>
+              </GameObject>
+            </GameObject>
+            <GameObject name="img_iconbg" components="CanvasRenderer|Image" id="-450204" img="main_1"/>
+            <GameObject name="img_icon" components="CanvasRenderer|Image|Mask|Button|UIButtonDelay" id="-450212" img="main_mask">
+              <GameObject name="img_pic" components="CanvasRenderer|RawImage" id="-450226" img="xiaowukong_1"/>
+            </GameObject>
+            <GameObject name="txt_playername" components="CanvasRenderer|Text|Outline|TextFontName" id="-450234" txt="&#23041;&#20005;&#33406;&#20025;"/>
+            <GameObject name="img_lv" components="CanvasRenderer|Image" id="-450322" img="main_2"/>
+            <GameObject name="txt_lv" components="CanvasRenderer|Text|TextFontName" id="-450330" txt="5"/>
+            <GameObject name="strength" components="" id="-450340">
+              <GameObject name="txt_strength" components="CanvasRenderer|Text|TweenScale|TextFontName" id="-450344" txt="201"/>
+            </GameObject>
+            <GameObject name="btn_mail" components="CanvasRenderer|Button|UIButtonScale|NoDrawingRayCast|UIButtonDelay|TweenScale" id="-450356">
+              <GameObject name="img_mailoff" components="CanvasRenderer|Image" id="-450370" img="ic0149a"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="btn_opentop" components="CanvasRenderer|Button|UIButtonDelay|NoDrawingRayCast|TweenPositionAnchor|UIButtonScale|TweenScale" id="-450388">
+            <GameObject name="img_bg" components="CanvasRenderer|Image" id="-450406" img="menu_s5"/>
+            <GameObject name="img_close" components="CanvasRenderer|Image" id="-450422" img="menu_s1"/>
+          </GameObject>
+          <GameObject name="Panel_Top" components="CanvasRenderer|TweenPositionAnchor|GridLayoutGroup" id="-450438">
+            <GameObject name="empty" components="LayoutElement" id="-450448"/>
+            <GameObject name="btn_activity" components="Button|UIButtonScale|LayoutElement|UIButtonDelay|CanvasRenderer|NoDrawingRayCast" id="-450454">
+              <GameObject name="img_icon" components="CanvasRenderer|Image|TweenScale" id="-450470" img="menu_act"/>
+            </GameObject>
+            <GameObject name="btn_advice" components="Button|UIButtonScale|LayoutElement|UIButtonDelay|CanvasRenderer|NoDrawingRayCast" id="-450518">
+              <GameObject name="img_icon" components="CanvasRenderer|Image|TweenScale" id="-450534" img="menu_advice"/>
+            </GameObject>
+            <GameObject name="btn_achievement" components="CanvasRenderer|LayoutElement" id="-450610">
+              <GameObject name="newfunction" components="Button|CanvasRenderer|NoDrawingRayCast|UIButtonDelay|TweenScale|TweenScale|UIButtonScale|TweenScale" id="-450656">
+                <GameObject name="img_bg" components="CanvasRenderer|Image" id="-450674" img="zhujiemian_tishi"/>
+                <GameObject name="btn_new" components="CanvasRenderer|Image" id="-450682" img="new2"/>
+                <GameObject name="img_bg2" components="CanvasRenderer|Image" id="-450690" img="zhujiemian_tishi2"/>
+                <GameObject name="txt_label" components="CanvasRenderer|Text|Outline|TextFontName" id="-450698" txt="&#21363;&#23558;&#24320;&#21551;"/>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+          <GameObject name="Panel_MapOther" components="" id="-450880"/>
+          <GameObject name="PanelTask" components="CanvasRenderer|TweenPositionAnchor" id="-451746">
+            <GameObject name="switch" components="" id="-451754">
+              <GameObject name="btn_task" components="Image|CanvasRenderer|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-451758" img="main_8">
+                <GameObject name="Text" components="CanvasRenderer|Text|UIInformationList|TextFontName" id="-451772" txt="&lt;color=#FFFFFF&gt;&#20219;&#21153;&lt;/color&gt;"/>
+                <GameObject name="img_select" components="CanvasRenderer|Image" id="-451784" img="main_8"/>
+              </GameObject>
+              <GameObject name="btn_team_off" components="CanvasRenderer|Button|Image|UIButtonScale|UIButtonDelay|TweenScale" id="-451874" img="main_7">
+                <GameObject name="Text" components="CanvasRenderer|Text|UIInformationList|TextFontName" id="-451888" txt="&lt;color=#5CA1F6&gt;&#32452;&#38431;&lt;/color&gt;"/>
+              </GameObject>
+            </GameObject>
+            <GameObject name="TaskList" components="" id="-452966">
+              <GameObject name="TaskScrollView" components="ScrollRect|CanvasRenderer|Image|Mask|UIEffectMask" id="-453002" img="st0047">
+                <GameObject name="TaskList" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-453016">
+                  <GameObject name="116" components="CanvasRenderer|Button|LayoutElement|ContentSizeFitter|Image|VerticalLayoutGroup|CanvasGroup|UIButtonDelay" id="-546676" img="main_quest">
+                    <GameObject name="top" components="LayoutElement" id="-546696">
+                      <GameObject name="1" components="UIDepth" id="-546702">
+                        <GameObject name="lizi" components="ParticleSystem|ParticleSystemRenderer|Animator" id="-546708"/>
+                      </GameObject>
+                    </GameObject>
+                    <GameObject name="bottom" components="LayoutElement" id="-546718">
+                      <GameObject name="2" components="UIDepth" id="-546724">
+                        <GameObject name="lizi" components="ParticleSystem|ParticleSystemRenderer|Animator" id="-546730"/>
+                      </GameObject>
+                    </GameObject>
+                    <GameObject name="title" components="LayoutElement|HorizontalLayoutGroup|ContentSizeFitter" id="-546740">
+                      <GameObject name="txt_type" components="CanvasRenderer|Text|LayoutElement|LayoutElement|UIInformationList|LayoutElement|TextFontName" id="-546750" txt="&lt;color=#EAE625&gt;[&#21095;]&lt;/color&gt;"/>
+                      <GameObject name="txt_taskname" components="CanvasRenderer|Text|VerticalLayoutGroup|LayoutElement|UIInformationList|TextFontName" id="-546768" txt="&lt;color=#EAE625&gt;&#39550;&#39542;&#31563;&#26007;&#20113;&lt;/color&gt;"/>
+                      <GameObject name="txt_count" components="CanvasRenderer|Text|LayoutElement|UIInformationList|TextFontName" id="-546784" txt=""/>
+                    </GameObject>
+                    <GameObject name="txt_taskdetail" components="CanvasRenderer|Text|LayoutElement|UIInformationList|TextFontName" id="-546810" txt="&#26597;&#30475;&#31563;&#26007;&#20113;:0/1"/>
+                  </GameObject>
+                </GameObject>
+              </GameObject>
+            </GameObject>
+            <GameObject name="btn_close" components="CanvasRenderer|Image|Button|UIButtonDelay" id="-453636" img="main_9">
+              <GameObject name="img_icon" components="CanvasRenderer|Image" id="-453648" img="main_11"/>
+              <GameObject name="img_block" components="CanvasRenderer|Image" id="-453656" img="st0047"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="PanelJoyStick" components="JoyStick|CanvasGroup|TweenPositionAnchor|TweenAlpha" id="-453664">
+            <GameObject name="btn_joystickBack" components="CanvasRenderer|Image|Button|UIButtonDelay" id="-453674" img="main_s7"/>
+            <GameObject name="btn_joystick" components="CanvasRenderer|Button|NoDrawingRayCast|UIButtonDelay" id="-453686">
+              <GameObject name="img_icon" components="CanvasRenderer|Image" id="-453698" img="main_s6"/>
+            </GameObject>
+            <GameObject name="tmp" components="CanvasRenderer|Image|UIEventListener" id="-453706" img="st0047"/>
+          </GameObject>
+          <GameObject name="PanelBottom" components="CanvasRenderer|UIDepth|Canvas|GraphicRaycaster" id="-453714">
+            <GameObject name="doubleSlider" components="doubleSlider" id="-453788">
+              <GameObject name="background" components="Slider|CanvasRenderer|Image" id="-453794" img="st0047">
+                <GameObject name="FillArea" components="" id="-453804">
+                  <GameObject name="Fill" components="CanvasRenderer|Image" id="-453808" img="st0047"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="forward" components="Slider" id="-453816">
+                <GameObject name="FillArea" components="" id="-453822">
+                  <GameObject name="Fill" components="CanvasRenderer|Image" id="-453826" img="exp_bg"/>
+                </GameObject>
+                <GameObject name="Handle" components="" id="-453834">
+                  <GameObject name="c_ui_qianneng_jd" components="UIDepth" id="-453838">
+                    <GameObject name="lizi1" components="ParticleSystem|ParticleSystemRenderer" id="-453844">
+                      <GameObject name="glow" components="ParticleSystem|ParticleSystemRenderer" id="-453852"/>
+                      <GameObject name="175" components="ParticleSystem|ParticleSystemRenderer" id="-453860"/>
+                      <GameObject name="2" components="ParticleSystem|ParticleSystemRenderer" id="-453868"/>
+                    </GameObject>
+                  </GameObject>
+                </GameObject>
+              </GameObject>
+            </GameObject>
+            <GameObject name="img_expbg9" components="CanvasRenderer|Image" id="-453876" img="exp_line"/>
+            <GameObject name="img_expbg8" components="CanvasRenderer|Image" id="-453884" img="exp_line"/>
+            <GameObject name="img_expbg7" components="CanvasRenderer|Image" id="-453892" img="exp_line"/>
+            <GameObject name="img_expbg6" components="CanvasRenderer|Image" id="-453900" img="exp_line"/>
+            <GameObject name="img_expbg5" components="CanvasRenderer|Image" id="-453908" img="exp_line"/>
+            <GameObject name="img_expbg4" components="CanvasRenderer|Image" id="-453916" img="exp_line"/>
+            <GameObject name="img_expbg3" components="CanvasRenderer|Image" id="-453924" img="exp_line"/>
+            <GameObject name="img_expbg2" components="CanvasRenderer|Image" id="-453932" img="exp_line"/>
+            <GameObject name="img_expbg1" components="CanvasRenderer|Image" id="-453940" img="exp_line"/>
+            <GameObject name="exp" components="CanvasRenderer|Image|LayoutElement" id="-453948" img="main_quest">
+              <GameObject name="txt_exp" components="CanvasRenderer|Text|UIInformationList|LayoutElement|TextFontName" id="-453958" txt="&lt;color=#FFFFFF&gt;&#32463;&#39564;&lt;/color&gt;"/>
+            </GameObject>
+            <GameObject name="Panel_Info" components="CanvasRenderer|LayoutElement|Image" id="-453972" img="main_chat1">
+              <GameObject name="txt_time" components="CanvasRenderer|Text|TextFontName" id="-453982" txt="12:31"/>
+              <GameObject name="wifi" components="" id="-453992">
+                <GameObject name="img_wifi4" components="CanvasRenderer|Image" id="-454028" img="ma0007"/>
+              </GameObject>
+              <GameObject name="btn_show" components="CanvasRenderer|Image|Button|UIButtonDelay" id="-454044" img="ma0010"/>
+              <GameObject name="battery" components="CanvasRenderer|Image" id="-454056" img="ma0008">
+                <GameObject name="img_on" components="CanvasRenderer|Image" id="-454064" img="ma0009"/>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+          <GameObject name="btn_expand" components="CanvasRenderer|Image|Button|TweenPositionAnchor|UIButtonDelay" id="-454072" img="menu_s3">
+            <GameObject name="img_menu" components="CanvasRenderer|Image" id="-454086" img="menu_s1"/>
+          </GameObject>
+          <GameObject name="btn_bag" components="LayoutElement|Button|UIButtonScale|TweenPositionAnchor|UIButtonDelay|CanvasRenderer|NoDrawingRayCast" id="-454118">
+            <GameObject name="img_icon" components="CanvasRenderer|Image|TweenScale" id="-454136" img="menu_bag"/>
+          </GameObject>
+          <GameObject name="PanelMenu" components="CanvasRenderer|GridLayoutGroup|TweenPositionAnchor" id="-454144">
+            <GameObject name="btn_hero" components="Button|UIButtonScale|LayoutElement|UIButtonDelay|CanvasRenderer|NoDrawingRayCast" id="-454154">
+              <GameObject name="img_icon" components="CanvasRenderer|Image|TweenScale" id="-454170" img="menu_hero"/>
+            </GameObject>
+            <GameObject name="btn_powerup" components="Button|UIButtonScale|LayoutElement|UIButtonDelay|CanvasRenderer|NoDrawingRayCast" id="-454186">
+              <GameObject name="img_icon" components="CanvasRenderer|Image|TweenScale" id="-454202" img="menu_up"/>
+              <GameObject name="img_point" components="CanvasRenderer|Image" id="-454210" img="st0084"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="btn_visit" components="CanvasRenderer|Button|UIButtonScale|Image|LayoutElement|UIButtonDelay|TweenScale" id="-454362" img="main_btn">
+            <GameObject name="img_default" components="CanvasRenderer|RawImage" id="-454378" img="btnvisit_chat"/>
+          </GameObject>
+          <GameObject name="PanelSkillAction" components="" id="-454468"/>
+        </GameObject>
+        <GameObject name="PanelChat" components="CanvasGroup|TweenAlpha|TweenPositionAnchor" id="-455802">
+          <GameObject name="img_bg" components="CanvasRenderer|Image" id="-455812" img="main_chat1"/>
+          <GameObject name="PanelBuff" components="CanvasRenderer" id="-455820">
+            <GameObject name="TmpMsg" components="LayoutTween|ContentSizeFitter|GridLayoutGroup" id="-455826"/>
+          </GameObject>
+          <GameObject name="content" components="CanvasRenderer|ScrollRect|Mask|Image|UIEventListener" id="-456486" img="st0047">
+            <GameObject name="Rect" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-456498">
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-506416">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-506496">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-506506" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-506516"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506566" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506590" txt="&#33719;&#24471;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506614" txt="&#32034;&#23612;&#24065;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506638" txt="500"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-506680">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-506760">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-506770" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-506780"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506830" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506854" txt="&#33719;&#24471;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-506878" txt="&#38155;&#33426;&#20043;&#32451;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-521930">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-522010">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-522020" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-522030"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-522080" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-522104" txt="&#35299;&#38145;&#26032;&#25216;&#33021;&#65281;Get&#8730;&#65281;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-532174">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-532254">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-532264" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-532274"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-532324" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-532348" txt="&#35299;&#38145;&#26032;&#25216;&#33021;&#65281;Get&#8730;&#65281;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-535468">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-535548">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-535558" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-535568"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-535618" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-535642" txt="&#20154;&#29289;&#31561;&#32423;&#25552;&#21319;&#21040;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-535666" txt="5"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-535690" txt="&#32423;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-535714">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-535794">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-535804" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-535814"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-535864" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-535888" txt="&#20154;&#29289;&#32463;&#39564;&#22686;&#21152;12000"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-535912">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-535992">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-536002" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-536012"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536062" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536086" txt="&#33719;&#24471;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536110" txt="&#32034;&#23612;&#24065;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536134" txt="1500"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-536158">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-536238">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-536248" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-536258"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536308" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536332" txt="&#33719;&#24471;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536356" txt="&#26102;&#31354;&#30862;&#29255;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-536380" txt="20"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-544824">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-544904">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-544914" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-544924"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-544974" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-544998" txt="&#20154;&#29289;&#32463;&#39564;&#22686;&#21152;3000"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Item(Clone)" components="CanvasRenderer|VerticalLayoutGroup|LayoutElement" id="-545022">
+                <GameObject name="line(Clone)" components="HorizontalLayoutGroup|ContentSizeFitter|LayoutElement" id="-545102">
+                  <GameObject name="img_ch" components="CanvasRenderer|Image|LayoutElement" id="-545112" img="ch_world"/>
+                  <GameObject name="sex" components="LayoutElement" id="-545122"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-545172" txt="           "/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-545196" txt="&#33719;&#24471;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-545220" txt="&#32034;&#23612;&#24065;"/>
+                  <GameObject name="text(Clone)" components="CanvasRenderer|Text|ContentSizeFitter|Button|UIButtonDelay|TextFontName" id="-545244" txt="250"/>
+                </GameObject>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+          <GameObject name="btn_friend" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-456588" img="menu_friend"/>
+          <GameObject name="btn_chat" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-456618" img="st0047">
+            <GameObject name="img_icon" components="CanvasRenderer|Image" id="-456632" img="menu_chat"/>
+          </GameObject>
+          <GameObject name="btn_action" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-456640" img="st0047"/>
+          <GameObject name="guildrange" components="Button|CanvasRenderer|NoDrawingRayCast|UIButtonScale|UIButtonDelay|UIEventListener|TweenScale" id="-456662"/>
+          <GameObject name="teamrange" components="CanvasRenderer|Button|NoDrawingRayCast|UIButtonDelay|UIEventListener" id="-456690"/>
+          <GameObject name="btn_set" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-456752" img="main_set"/>
+        </GameObject>
+      </GameObject>
+      <GameObject name="UI_Chat" components="UIIdentifier|UIDepth|Canvas|GraphicRaycaster" id="-497988">
+        <GameObject name="Offset_Chat" components="" id="-497994">
+          <GameObject name="Panel_Chat" components="CanvasRenderer|TriggerSound" id="-497998">
+            <GameObject name="bg" components="" id="-498004">
+              <GameObject name="img_bg" components="CanvasRenderer|Image" id="-498008" img="bg0019"/>
+              <GameObject name="img_bg2" components="CanvasRenderer|Image" id="-498016" img="BG_dikuang"/>
+            </GameObject>
+            <GameObject name="btn_close" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay" id="-498024" img="bg0019a">
+              <GameObject name="img_icon" components="CanvasRenderer|Image|TweenScale" id="-498038" img="bg0019b"/>
+            </GameObject>
+            <GameObject name="Panel_ChannelList" components="CanvasRenderer|Image|VerticalLayoutGroup" id="-498046" img="st0047">
+              <GameObject name="btn_channelsys" components="CanvasRenderer|Button|LayoutElement|UIButtonScale|UIButtonDelay|TweenScale" id="-498056">
+                <GameObject name="sp_disselected" components="CanvasRenderer|Image" id="-498070" img="Btn_biaoqian3_an">
+                  <GameObject name="txt_tabinfo" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-498078" txt="&lt;color=#FFFFFF&gt;&#31995;&#32479;&lt;/color&gt;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="btn_channelwor" components="CanvasRenderer|Button|LayoutElement|UIButtonScale|UIButtonDelay|TweenScale" id="-498114">
+                <GameObject name="sp_selected" components="CanvasRenderer|Image" id="-498150" img="Btn_biaoqian3_liang">
+                  <GameObject name="txt_tabinfo" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-498158" txt="&lt;color=#FFFFFF&gt;&#19990;&#30028;&lt;/color&gt;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="btn_channelsce" components="CanvasRenderer|Button|LayoutElement|UIButtonScale|UIButtonDelay|TweenScale" id="-498286">
+                <GameObject name="sp_disselected" components="CanvasRenderer|Image" id="-498300" img="Btn_biaoqian3_an">
+                  <GameObject name="txt_tabinfo" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-498308" txt="&lt;color=#FFFFFF&gt;&#38468;&#36817;&lt;/color&gt;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="btn_channelteam" components="CanvasRenderer|Button|LayoutElement|UIButtonScale|UIButtonDelay|TweenScale" id="-498344">
+                <GameObject name="sp_disselected" components="CanvasRenderer|Image" id="-498358" img="Btn_biaoqian3_an">
+                  <GameObject name="txt_tabinfo" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-498366" txt="&lt;color=#FFFFFF&gt;&#38431;&#20237;&lt;/color&gt;"/>
+                </GameObject>
+              </GameObject>
+            </GameObject>
+            <GameObject name="Panel_VoiceSet" components="" id="-498402">
+              <GameObject name="img_bg" components="CanvasRenderer|Image" id="-498406" img="xiulian_jineng_di"/>
+              <GameObject name="toggle_wifiauto" components="Toggle" id="-498414">
+                <GameObject name="img_background" components="CanvasRenderer|Image" id="-498420" img="tabon_38_31">
+                  <GameObject name="img_checkmark" components="CanvasRenderer|Image" id="-498428" img="ic0003"/>
+                </GameObject>
+                <GameObject name="txt_label" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-498436" txt="&lt;color=#C9E2FF&gt;&#33258;&#21160;&#25773;&#25918;&#35813;&#39057;&#36947;&#35821;&#38899;&lt;/color&gt;"/>
+              </GameObject>
+            </GameObject>
+            <GameObject name="Panel_Content" components="CanvasRenderer|ScrollRect|Mask|Image" id="-498450" img="st0047">
+              <GameObject name="Rect" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-498462"/>
+            </GameObject>
+            <GameObject name="Panel_Input" components="CanvasRenderer" id="-498904">
+              <GameObject name="voicerange" components="CanvasRenderer|NoDrawingRayCast|Button|UIButtonDelay|UIEventListener" id="-498910">
+                <GameObject name="btn_voice" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|UIEventListener|TweenScale" id="-498922" img="ic0077"/>
+              </GameObject>
+              <GameObject name="InputField" components="CanvasRenderer|Image|InputField" id="-498936" img="shurukuang">
+                <GameObject name="InputField Input Caret" components="CanvasRenderer|LayoutElement" id="-499210" visible="false"/>
+                <GameObject name="Placeholder" components="CanvasRenderer|Text|TextFontName" id="-498946" txt="&#28857;&#20987;&#36755;&#20837;&#20869;&#23481;"/>
+                <GameObject name="Text" components="CanvasRenderer|Text|TextFontName" id="-498956" txt=""/>
+              </GameObject>
+              <GameObject name="btn_express" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-498966" img="ic0078"/>
+              <GameObject name="btn_add" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-498980" img="btn_more"/>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="LayerCommon" components="Canvas|GraphicRaycaster" id="10046">
+      <GameObject name="UI_ActivityGuide" components="UIIdentifier|TriggerSound|TweenScale|UIDepth|Canvas|GraphicRaycaster" id="-539606">
+        <GameObject name="Offset_ActivityGuide" components="" id="-539612">
+          <GameObject name="Panel_Large" components="TriggerSound" id="-539616">
+            <GameObject name="img_mask" components="CanvasRenderer|NoDrawingRayCast" id="-539620"/>
+            <GameObject name="background" components="" id="-539628">
+              <GameObject name="img_bg1" components="CanvasRenderer|Image" id="-539632" img="BG_diban"/>
+            </GameObject>
+            <GameObject name="title" components="" id="-539640">
+              <GameObject name="btn_close" components="CanvasRenderer|Button|UIIdentifier|UIButtonScale|NoDrawingRayCast|UIButtonDelay|TweenScale" id="-539644">
+                <GameObject name="img_icon" components="CanvasRenderer|Image" id="-539660" img="Btn_close"/>
+              </GameObject>
+              <GameObject name="img_titlebg" components="CanvasRenderer|Image" id="-539668" img="BG_yun"/>
+              <GameObject name="img_title" components="CanvasRenderer|Image" id="-539676" img="Title_huodong"/>
+            </GameObject>
+            <GameObject name="menu" components="ToggleGroup" id="-539684">
+              <GameObject name="btn_daily" components="CanvasRenderer|Toggle|ToggleObject" id="-539690">
+                <GameObject name="sp_disselected" components="CanvasRenderer|Image" id="-539700" img="Btn_biaoqian1_an2"/>
+                <GameObject name="sp_selected" components="CanvasRenderer|Image" id="-539708" img="Btn_biaoqian1_liang2"/>
+                <GameObject name="Text" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-539716" txt="&lt;color=#F1AF46&gt;&#27963;&#21160;&lt;/color&gt;"/>
+              </GameObject>
+              <GameObject name="btn_targetLock" components="CanvasRenderer|Button|Image|UIButtonDelay" id="-539814" img="Btn_biaoqian1_hui3">
+                <GameObject name="Text" components="CanvasRenderer|Text|Outline|TextFontName" id="-539826" txt="&#30446;&#26631;"/>
+                <GameObject name="img_lock" components="CanvasRenderer|Image" id="-539838" img="lock_32_38"/>
+              </GameObject>
+            </GameObject>
+            <GameObject name="Panel_Daily" components="CanvasRenderer" id="-539846">
+              <GameObject name="img_bg" components="CanvasRenderer|Image" id="-539852" img="BG_dikuang"/>
+              <GameObject name="List" components="CanvasRenderer|ScrollRect|Mask|Image|ScrollRectArrow" id="-539860" img="st0047">
+                <GameObject name="Rect" components="GridLayoutGroup|ContentSizeFitter" id="-539874">
+                  <GameObject name="Item" components="LayoutElement|Button|UIButtonDelay" id="-539882">
+                    <GameObject name="img_bg" components="CanvasRenderer|Image" id="-539892" img="di_xinxiliebiao"/>
+                    <GameObject name="img_icon" components="LayoutElement|CanvasRenderer" id="-539900">
+                      <GameObject name="img_bg" components="CanvasRenderer|Image" id="-539908" img="st0099"/>
+                      <GameObject name="img_icon" components="CanvasRenderer|Image" id="-539916" img="ic0032"/>
+                    </GameObject>
+                    <GameObject name="txt_name" components="CanvasRenderer|Text|Outline|TextFontName" id="-539932" txt=""/>
+                    <GameObject name="times" components="" id="-539944">
+                      <GameObject name="txt_label" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-539948" txt="&lt;color=#C9E2FF&gt;&#27425;&#25968;&lt;/color&gt;"/>
+                      <GameObject name="txt_times" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-539962" txt="&lt;color=#FFFFFF&gt;&#19981;&#38480;&lt;/color&gt;"/>
+                    </GameObject>
+                    <GameObject name="point" components="" id="-539976">
+                      <GameObject name="txt_label" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-539980" txt="&lt;color=#C9E2FF&gt;&#27963;&#36291;&lt;/color&gt;"/>
+                      <GameObject name="txt_times" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-539994" txt="&lt;color=#FFFFFF&gt;&#26080;&lt;/color&gt;"/>
+                    </GameObject>
+                    <GameObject name="btn_join" components="CanvasRenderer|Button|UIButtonScale|UIButtonDelay|NoDrawingRayCast|TweenScale" id="-540008">
+                      <GameObject name="img_on" components="CanvasRenderer|Image" id="-540022" img="Btn_xiao_yello"/>
+                      <GameObject name="Text" components="CanvasRenderer|Text|UIInformationList|Outline|TextFontName" id="-540038" txt="&lt;color=#FFFFFF&gt;&#21442;&#21152;&lt;/color&gt;"/>
+                    </GameObject>
+                  </GameObject>
+                </GameObject>
+                <GameObject name="top" components="CanvasRenderer|NoDrawingRayCast" id="-540110"/>
+                <GameObject name="bottom" components="CanvasRenderer|NoDrawingRayCast" id="-540118"/>
+                <GameObject name="mid" components="CanvasRenderer|NoDrawingRayCast" id="-540126"/>
+              </GameObject>
+              <GameObject name="Point" components="" id="-540150">
+                <GameObject name="img_pointbg" components="CanvasRenderer|RawImage" id="-540154" img="huodong_di"/>
+                <GameObject name="ImgSlider" components="CanvasRenderer|Image" id="-540162" img="huodong_jindutiao"/>
+                <GameObject name="Award" components="" id="-540170">
+                  <GameObject name="Item1" components="LayoutElement|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-540174">
+                    <GameObject name="img_bg" components="CanvasRenderer|Image" id="-540186" img="st0099"/>
+                    <GameObject name="img_icon" components="CanvasRenderer|UIImage" id="-540194" img="icon_act"/>
+                    <GameObject name="txt_point" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540210" txt="25"/>
+                    <GameObject name="txt_pointlabel" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540222" txt="&#27963;&#36291;"/>
+                  </GameObject>
+                  <GameObject name="Item2" components="LayoutElement|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-540272">
+                    <GameObject name="img_bg" components="CanvasRenderer|Image" id="-540284" img="st0099"/>
+                    <GameObject name="img_icon" components="CanvasRenderer|UIImage" id="-540292" img="icon_act"/>
+                    <GameObject name="txt_pointlabel" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540308" txt="&#27963;&#36291;"/>
+                    <GameObject name="txt_point" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540320" txt="50"/>
+                  </GameObject>
+                  <GameObject name="Item3" components="LayoutElement|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-540370">
+                    <GameObject name="img_bg" components="CanvasRenderer|Image" id="-540382" img="st0099"/>
+                    <GameObject name="img_icon" components="CanvasRenderer|UIImage" id="-540390" img="icon_act"/>
+                    <GameObject name="txt_point" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540414" txt="75"/>
+                    <GameObject name="txt_pointlabel" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540426" txt="&#27963;&#36291;"/>
+                  </GameObject>
+                  <GameObject name="Item4" components="LayoutElement|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-540468">
+                    <GameObject name="img_bg" components="CanvasRenderer|Image" id="-540480" img="st0099"/>
+                    <GameObject name="img_icon" components="CanvasRenderer|UIImage" id="-540488" img="icon_act"/>
+                    <GameObject name="txt_pointlabel" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540512" txt="&#27963;&#36291;"/>
+                    <GameObject name="txt_point" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540524" txt="100"/>
+                  </GameObject>
+                  <GameObject name="Item5" components="LayoutElement|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-540566">
+                    <GameObject name="img_bg" components="CanvasRenderer|Image" id="-540578" img="st0099"/>
+                    <GameObject name="img_icon" components="CanvasRenderer|UIImage" id="-540586" img="icon_act"/>
+                    <GameObject name="txt_point" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540610" txt="125"/>
+                    <GameObject name="txt_pointlabel" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540622" txt="&#27963;&#36291;"/>
+                  </GameObject>
+                </GameObject>
+                <GameObject name="txt_info" components="CanvasRenderer|Text|UIInformationList|TextFontName" id="-540664" txt="&lt;color=#FC9A28&gt;&#27599;&#26085;6&#28857;&#21047;&#26032;&lt;/color&gt;"/>
+                <GameObject name="txt_text" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540676" txt="&#27963;&#36291;&#24230;"/>
+                <GameObject name="txt_activity" components="CanvasRenderer|Text|Shadow|TextFontName" id="-540688" txt="0"/>
+              </GameObject>
+              <GameObject name="btn_daily" components="CanvasRenderer|Button|UIButtonScale|NoDrawingRayCast|UIButtonDelay|TweenScale" id="-540700">
+                <GameObject name="img_icon" components="CanvasRenderer|Image" id="-540714" img="btn_zhouli"/>
+              </GameObject>
+              <GameObject name="txt_label" components="CanvasRenderer|Text|TextFontName" id="-540722" txt="&#27963;&#21147;"/>
+              <GameObject name="img_iconbg" components="CanvasRenderer|Image" id="-540732" img="dikuang_jinbi2"/>
+              <GameObject name="img_acticon" components="CanvasRenderer|Image" id="-540740" img="icon_act_s">
+                <GameObject name="btn_icon" components="CanvasRenderer|Button|NoDrawingRayCast|UIButtonDelay" id="-540748"/>
+              </GameObject>
+              <GameObject name="txt_actvalue" components="CanvasRenderer|Text|TextFontName" id="-540760" txt="0/2000"/>
+              <GameObject name="img_iconbg2" components="CanvasRenderer|Image" id="-540770" img="dikuang_jinbi2"/>
+              <GameObject name="img_double" components="CanvasRenderer|Image" id="-540778" img="icon_double_s">
+                <GameObject name="btn_icon" components="CanvasRenderer|Button|NoDrawingRayCast|UIButtonDelay" id="-540786"/>
+              </GameObject>
+              <GameObject name="txt_label2" components="CanvasRenderer|Text|TextFontName" id="-540798" txt="&#21452;&#20493;&#28857;"/>
+              <GameObject name="txt_doublevalue" components="CanvasRenderer|Text|TextFontName" id="-540808" txt="0/1000"/>
+              <GameObject name="Slider_double" components="UISwitch" id="-540818">
+                <GameObject name="Background" components="CanvasRenderer|Image" id="-540824" img="xinxi_kongjian_off"/>
+                <GameObject name="txt_off1" components="CanvasRenderer|Text|LayoutElement|UIInformationList|TextFontName" id="-540832" txt="&lt;color=#C9E2FF&gt;&#20851;&lt;/color&gt;"/>
+                <GameObject name="FillArea" components="" id="-540846">
+                  <GameObject name="Fill" components="CanvasRenderer|Image" id="-540850" img="xinxi_kongjian_on"/>
+                  <GameObject name="txt_off0" components="CanvasRenderer|Text|LayoutElement|UIInformationList|TextFontName" id="-540858" txt="&lt;color=#FEF78B&gt;&#24320;&lt;/color&gt;"/>
+                </GameObject>
+                <GameObject name="HandleSlideArea" components="" id="-540872">
+                  <GameObject name="Handle" components="CanvasRenderer|NoDrawingRayCast|Button|UIButtonDelay" id="-540876">
+                    <GameObject name="img_icon" components="CanvasRenderer|Image" id="-540888" img="btn_double"/>
+                  </GameObject>
+                </GameObject>
+              </GameObject>
+              <GameObject name="btn_add" components="CanvasRenderer|Image|Button|UIButtonScale|UIButtonDelay|TweenScale" id="-540896" img="st0047">
+                <GameObject name="img_icon" components="CanvasRenderer|Image|UIButtonScale|TweenScale" id="-540910" img="btn_add"/>
+              </GameObject>
+              <GameObject name="btn_toggle" components="CanvasRenderer|NoDrawingRayCast|Button|UIButtonDelay" id="-540920"/>
+              <GameObject name="txt_label3" components="CanvasRenderer|Text|TextFontName" id="-540932" txt="&#24320;&#21551;&#21452;&#20493;"/>
+              <GameObject name="btn_set" components="CanvasRenderer|Button|UIButtonScale|NoDrawingRayCast|UIButtonDelay|TweenScale" id="-540942">
+                <GameObject name="img_icon" components="CanvasRenderer|Image" id="-540956" img="btn_tixing"/>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="LayerTips" components="Canvas|GraphicRaycaster" id="10098">
+      <GameObject name="UI_ItemUse" components="UIIdentifier|UIDepth|Canvas|GraphicRaycaster" id="-422326">
+        <GameObject name="Offset_ItemUse" components="" id="-422332">
+          <GameObject name="Panel_ItemAdd" components="CanvasRenderer" id="-422514">
+            <GameObject name="Items" components="" id="-422520"/>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+      <GameObject name="UI_MapName" components="UIIdentifier|UIDepth|Canvas|GraphicRaycaster" id="-422922">
+        <GameObject name="Offset_MapName" components="" id="-422928">
+          <GameObject name="Panel_MapName" components="CanvasRenderer|CanvasGroup|TweenGroup|UIIdentifier" id="-422932">
+            <GameObject name="txt_map" components="CanvasRenderer|Text|Outline|Shadow|TweenAlpha|TweenAlpha|TweenPosition|UIIdentifier|TextFontName" id="-422944" txt="&#24735;&#31354;&#30340;&#23478;"/>
+            <GameObject name="img_line" components="CanvasRenderer|Image|TweenAlpha|TweenAlpha|UIIdentifier" id="-422966" img="st0119"/>
+            <GameObject name="txt_mapen" components="CanvasRenderer|Text|Outline|Shadow|TweenAlpha|TweenAlpha|TweenPosition|UIIdentifier|TextFontName" id="-422980" txt="Goku&#12398;&#23478;"/>
+            <GameObject name="img_icon" components="CanvasRenderer|Image|TweenAlpha|TweenAlpha|TweenPosition|UIIdentifier" id="-423002" img="st0118"/>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="LayerGuide" components="Canvas|GraphicRaycaster" id="10092"/>
+    <GameObject name="hphitRoot" components="Canvas" id="10022">
+      <GameObject name="UI_HpHit" components="CanvasRenderer|UIDepth|Canvas|GraphicRaycaster" id="-400392">
+        <GameObject name="HitNumParent" components="" id="-400398">
+          <GameObject name="hitnumber" components="" id="-400402">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPositionDirection|TweenScale|TweenPositionDirection|NoMaskText|TextFontName" id="-400406" txt="1111"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="RevertParent" components="" id="-400460">
+          <GameObject name="revertnumber" components="" id="-400464">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPosition|NoMaskText|TextFontName" id="-400468" txt="1"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="RevertCriParent" components="" id="-400482">
+          <GameObject name="revertCrinumber" components="" id="-400486">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPosition|NoMaskText|TweenScale|TextFontName" id="-400490" txt=""/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="RevertqiParent" components="" id="-400506">
+          <GameObject name="revertqinumber" components="" id="-400510">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPosition|NoMaskText|TextFontName" id="-400514" txt=""/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="CrinumberParent" components="" id="-400528">
+          <GameObject name="crinumber" components="CanvasRenderer" id="-400532">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPositionDirection|TweenScale|TweenPositionDirection|NoMaskText|TextFontName" id="-400538" txt="1"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="Mon_HitNumParent" components="" id="-400556">
+          <GameObject name="mon_hitbumber" components="" id="-400560">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPositionDirection|TweenPositionDirection|NoMaskText|TextFontName" id="-400564" txt="111"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="Mon_CrinumberParent" components="" id="-400580">
+          <GameObject name="mon_crinumber" components="CanvasRenderer" id="-400584">
+            <GameObject name="txt_num" components="CanvasRenderer|TweenAlpha|TweenPositionDirection|TweenPositionDirection|NoMaskText|TextFontName" id="-400590" txt="1"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="ImgStateParent" components="" id="-400606">
+          <GameObject name="imgstate" components="" id="-400610">
+            <GameObject name="img_state" components="CanvasRenderer|TweenPosition|TweenAlpha|Image" id="-400614" img="fn0014"/>
+          </GameObject>
+          <GameObject name="imgstatedikang" components="" id="-400626">
+            <GameObject name="img_dikang" components="CanvasRenderer|TweenPosition|TweenAlpha|Image" id="-400630" img="fn0015"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="Mon_ImgStateParent" components="" id="-400642">
+          <GameObject name="imgstate" components="" id="-400646">
+            <GameObject name="img_state" components="CanvasRenderer|TweenPosition|TweenAlpha|Image" id="-400650" img="fn0014"/>
+          </GameObject>
+          <GameObject name="imgstatedikang" components="" id="-400662">
+            <GameObject name="img_dikang" components="CanvasRenderer|TweenPosition|TweenAlpha|Image" id="-400666" img="fn0015"/>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="LayerLoading" components="Canvas|GraphicRaycaster" id="10124"/>
+    <GameObject name="LayerCutScene" components="Canvas|GraphicRaycaster" id="10108"/>
+    <GameObject name="CutBlackScreen" components="Canvas" id="10120">
+      <GameObject name="UI_CutBlackScreen" components="UIDepth|Canvas|GraphicRaycaster" id="-543546">
+        <GameObject name="Offset_CutBlackScreen" components="" id="-543550"/>
+      </GameObject>
+    </GameObject>
+    <GameObject name="LayerFps" components="Canvas|GraphicRaycaster" id="10096"/>
+  </GameObject>
+  <GameObject name="hpRoot" components="Canvas|CanvasScaler|DontDestroyOnLoad" id="10036">
+    <GameObject name="UI_HpSystem" components="CanvasRenderer|UIIdentifier" id="-402306">
+      <GameObject name="MosterHpInfo" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-402314">
+        <GameObject name="PlayerInfo" components="LayoutElement|VerticalLayoutGroup|ContentSizeFitter" id="-402324">
+          <GameObject name="img_zhu" components="CanvasRenderer|Image|LayoutElement" id="-402334" img="ma0026">
+            <GameObject name="Text" components="CanvasRenderer|Text|TextFontName" id="-402344" txt="&#21161;"/>
+          </GameObject>
+          <GameObject name="txt_name" components="CanvasRenderer|LayoutElement|NoMaskText|Outline|TextFontName" id="-402368" txt=""/>
+        </GameObject>
+        <GameObject name="hp" components="LayoutElement" id="-402410">
+          <GameObject name="Slider" components="CanvasGroup" id="-402416">
+            <GameObject name="Background" components="CanvasRenderer|Image" id="-402422" img="main_hp2"/>
+            <GameObject name="img_grey" components="CanvasRenderer|Image" id="-402430" img="st0047"/>
+            <GameObject name="img_hp" components="CanvasRenderer|Image" id="-402438" img="st0047"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="effect" components="" id="-402476"/>
+        <GameObject name="btn_visit" components="CanvasRenderer|LayoutElement" id="-402490">
+          <GameObject name="img_visit" components="CanvasRenderer|RawImage" id="-402498" img="btnvisit_chat"/>
+        </GameObject>
+        <GameObject name="choose" components="LayoutElement" id="-402506">
+          <GameObject name="img_line" components="CanvasRenderer|Image|TweenPosition|TweenAlpha" id="-402512" img="st0115"/>
+          <GameObject name="img_arrow" components="CanvasRenderer|Image|TweenPosition" id="-402524" img="st0116"/>
+          <GameObject name="img_line2" components="CanvasRenderer|Image|TweenPosition|TweenAlpha" id="-402534" img="st0115"/>
+          <GameObject name="img_arrow2" components="CanvasRenderer|Image|TweenPosition" id="-402546" img="st0116"/>
+        </GameObject>
+      </GameObject>
+      <GameObject name="PlayerHpInfo" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-402642">
+        <GameObject name="PlayerInfo" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-402652">
+          <GameObject name="txt_name" components="CanvasRenderer|ContentSizeFitter|NoMaskText|Outline|TextFontName" id="-402662" txt=""/>
+        </GameObject>
+        <GameObject name="hp" components="CanvasRenderer|LayoutElement" id="-402714">
+          <GameObject name="Sliderfriend" components="CanvasGroup" id="-402752">
+            <GameObject name="Background" components="CanvasRenderer|Image" id="-402758" img="main_hp2"/>
+            <GameObject name="img_grey" components="CanvasRenderer|Image" id="-402766" img="st0047"/>
+            <GameObject name="img_hp" components="CanvasRenderer|Image" id="-402774" img="st0047"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="choose" components="LayoutElement" id="-402782"/>
+      </GameObject>
+      <GameObject name="&#23041;&#20005;&#33406;&#20025;1878030" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-403186">
+        <GameObject name="hp" components="CanvasRenderer|LayoutElement" id="-403258"/>
+      </GameObject>
+      <GameObject name="&#40863;&#20185;&#20154;10000147" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-408354">
+        <GameObject name="PlayerInfo" components="LayoutElement|VerticalLayoutGroup|ContentSizeFitter" id="-408364">
+          <GameObject name="txt_name" components="CanvasRenderer|LayoutElement|NoMaskText|Outline|TextFontName" id="-408408" txt="&#40863;&#20185;&#20154;"/>
+        </GameObject>
+        <GameObject name="hp" components="LayoutElement" id="-408450"/>
+        <GameObject name="effect" components="" id="-408516"/>
+      </GameObject>
+      <GameObject name="10000148" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-409010">
+        <GameObject name="PlayerInfo" components="LayoutElement|VerticalLayoutGroup|ContentSizeFitter" id="-409020">
+          <GameObject name="txt_name" components="CanvasRenderer|LayoutElement|NoMaskText|Outline|TextFontName" id="-409064" txt=""/>
+        </GameObject>
+        <GameObject name="hp" components="LayoutElement" id="-409106"/>
+        <GameObject name="effect" components="" id="-409172"/>
+        <GameObject name="btn_visit" components="CanvasRenderer|LayoutElement" id="-409186">
+          <GameObject name="img_visit" components="CanvasRenderer|RawImage" id="-409194" img="ic0143"/>
+        </GameObject>
+        <GameObject name="choose" components="LayoutElement" id="-409202">
+          <GameObject name="img_line" components="CanvasRenderer|Image|TweenPosition|TweenAlpha" id="-409208" img="st0115"/>
+          <GameObject name="img_arrow" components="CanvasRenderer|Image|TweenPosition" id="-409220" img="st0116"/>
+          <GameObject name="img_line2" components="CanvasRenderer|Image|TweenPosition|TweenAlpha" id="-409230" img="st0115"/>
+          <GameObject name="img_arrow2" components="CanvasRenderer|Image|TweenPosition" id="-409242" img="st0116"/>
+        </GameObject>
+      </GameObject>
+      <GameObject name="&#28023;&#40863;10000146" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-409338">
+        <GameObject name="PlayerInfo" components="LayoutElement|VerticalLayoutGroup|ContentSizeFitter" id="-409348">
+          <GameObject name="txt_name" components="CanvasRenderer|LayoutElement|NoMaskText|Outline|TextFontName" id="-409392" txt="&#28023;&#40863;"/>
+        </GameObject>
+        <GameObject name="hp" components="LayoutElement" id="-409434"/>
+        <GameObject name="effect" components="" id="-409500"/>
+      </GameObject>
+      <GameObject name="&#28023;&#40863;10000145" components="CanvasRenderer|VerticalLayoutGroup|ContentSizeFitter" id="-409666">
+        <GameObject name="hp" components="LayoutElement" id="-409762"/>
+        <GameObject name="effect" components="" id="-409828"/>
+      </GameObject>
+    </GameObject>
+  </GameObject>
+</AbstractRoot>

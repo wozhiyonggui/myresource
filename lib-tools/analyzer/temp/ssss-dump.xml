@@ -1,0 +1,645 @@
+<AbstractRoot id="0">
+  <GameObject name="[DOTween]" components="DOTweenComponent" id="-1052"/>
+  <GameObject name="AudioManager" components="AkTerminator|AkInitializer|GlobalSoundObj" id="-784"/>
+  <GameObject name="GameManager" components="GameManager|AudioSource|AudioSource|GMCheck|DebugLogManager|AssetBundleManager|ResourceManager|CommFunc|LayerManager|PlotManager|BattleManager" id="2064"/>
+  <GameObject name="EventSystem" components="EventSystem|StandaloneInputModule|BaseInput" id="2068"/>
+  <GameObject name="UICamera" components="Camera|FlareLayer|GUILayer" id="2080"/>
+  <GameObject name="Directional Light" components="Light" id="2086"/>
+  <GameObject name="arena" components="" id="2100">
+    <GameObject name="Arena1" components="" id="2368">
+      <GameObject name="Foreground Layer 2" components="" id="2764">
+        <GameObject name="Layer 1" components="" id="2888"/>
+        <GameObject name="Layer 2" components="" id="2544">
+          <GameObject name="2-di1 (1)" components="" id="2136">
+            <GameObject name="2-shitou3 (29)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2980"/>
+            <GameObject name="Bg" components="SpriteRenderer" id="3006" img="bgSnow"/>
+            <GameObject name="Bg (1)" components="SpriteRenderer" id="2946" img="bgSnow_3"/>
+            <GameObject name="Bg (2)" components="SpriteRenderer" id="2578" img="bgSnow_6"/>
+            <GameObject name="Bg (5)" components="SpriteRenderer" id="2968" img="bgSnow_6"/>
+            <GameObject name="Bg (8)" components="SpriteRenderer" id="2718" img="bgSnow_2"/>
+            <GameObject name="Bg (6)" components="SpriteRenderer" id="2502" img="bgSnow"/>
+            <GameObject name="Bg (7)" components="SpriteRenderer" id="2826" img="bgSnow"/>
+            <GameObject name="Bg (12)" components="SpriteRenderer" id="2200" img="bgSnow_7"/>
+            <GameObject name="Bg (3)" components="SpriteRenderer" id="3062" img="bgSnow_6"/>
+            <GameObject name="Bg (13)" components="SpriteRenderer" id="2548" img="bgSnow_7"/>
+            <GameObject name="Bg (14)" components="SpriteRenderer" id="2498" img="bgSnow_7"/>
+            <GameObject name="Bg (11)" components="SpriteRenderer" id="2766" img="bgSnow_7"/>
+            <GameObject name="Bg (17)" components="SpriteRenderer" id="3042" img="bgSnow_3"/>
+            <GameObject name="Bg (21)" components="SpriteRenderer" id="2984" img="bgSnow_7"/>
+            <GameObject name="Bg (22)" components="SpriteRenderer" id="2272" img="bgSnow_7"/>
+            <GameObject name="Bg (23)" components="SpriteRenderer" id="2906" img="bgSnow_7"/>
+            <GameObject name="Bg (24)" components="SpriteRenderer" id="2482" img="bgSnow_7"/>
+            <GameObject name="Bg (26)" components="SpriteRenderer" id="2912" img="bgSnow_7"/>
+            <GameObject name="Bg (27)" components="SpriteRenderer" id="2468" img="bgSnow_7"/>
+            <GameObject name="Bg (28)" components="SpriteRenderer" id="2680" img="bgSnow_10"/>
+            <GameObject name="Bg (29)" components="SpriteRenderer" id="3014" img="bgSnow_10"/>
+            <GameObject name="Bg (30)" components="SpriteRenderer" id="2686" img="bgSnow_7"/>
+            <GameObject name="Bg (31)" components="SpriteRenderer" id="2162" img="bgSnow_10"/>
+            <GameObject name="Bg (4)" components="SpriteRenderer" id="3088" img="bgSnow_4"/>
+            <GameObject name="Bg (15)" components="SpriteRenderer" id="3004" img="bgSnow_7"/>
+            <GameObject name="Bg (18)" components="SpriteRenderer" id="2762" img="bgSnow_3"/>
+            <GameObject name="Bg (19)" components="SpriteRenderer" id="2166" img="bgSnow_3"/>
+            <GameObject name="Bg (20)" components="SpriteRenderer" id="2438" img="bgSnow_4"/>
+            <GameObject name="Bg (25)" components="SpriteRenderer" id="3124" img="bgSnow_4"/>
+            <GameObject name="Bg (32)" components="SpriteRenderer" id="2954" img="bgSnow_4"/>
+            <GameObject name="Bg (33)" components="SpriteRenderer" id="2452" img="bgSnow_4"/>
+          </GameObject>
+          <GameObject name="2-shu2 (9)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2314"/>
+          <GameObject name="2-shu2 (17)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2354"/>
+          <GameObject name="2-shu2 (20)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2122"/>
+          <GameObject name="2-shu2 (21)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2504"/>
+          <GameObject name="2-shu2 (23)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2138"/>
+          <GameObject name="2-shu2 (25)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2388"/>
+          <GameObject name="2-shu2 (28)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2960"/>
+          <GameObject name="2-1 (3)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2454"/>
+          <GameObject name="2-zhalan1 (5)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2380"/>
+          <GameObject name="2-zhalan1 (11)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2154"/>
+          <GameObject name="2-shu2 (7)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2236"/>
+          <GameObject name="2-zhalan1 (15)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2872"/>
+          <GameObject name="2-zhalan1 (16)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2594"/>
+          <GameObject name="2-zhalan1 (10)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2732"/>
+          <GameObject name="2-shu2 (8)" components="MeshRenderer|MeshFilter|tk2dSprite" id="3076"/>
+          <GameObject name="2-shu2 (10)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2180"/>
+          <GameObject name="2-shu2 (29)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2986"/>
+          <GameObject name="2-shitou3 (3)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2490"/>
+          <GameObject name="2-zhalan1 (17)" components="MeshRenderer|MeshFilter|tk2dSprite" id="3026"/>
+          <GameObject name="2-shu2 (30)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2928"/>
+          <GameObject name="2-zhalan1 (12)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2214"/>
+          <GameObject name="2-shu2 (31)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2512"/>
+          <GameObject name="2-shu2 (12)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2268"/>
+          <GameObject name="2-zhalan1 (18)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2930"/>
+          <GameObject name="2-zhalan1 (19)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2692"/>
+          <GameObject name="2-zhalan1 (13)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2918"/>
+        </GameObject>
+        <GameObject name="Layer 3" components="" id="2584">
+          <GameObject name="3-di1" components="" id="2778">
+            <GameObject name="3-di1 (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3086"/>
+          </GameObject>
+          <GameObject name="3-shu1 (3)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2770"/>
+          <GameObject name="3-shu1 (4)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3126"/>
+          <GameObject name="3-shu1 (5)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2628"/>
+          <GameObject name="3-shu1 (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3032"/>
+          <GameObject name="3-shu1 (10)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2788"/>
+          <GameObject name="3-shu1 (18)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2600"/>
+          <GameObject name="3-shu1 (19)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2858"/>
+          <GameObject name="3-shu1 (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2390"/>
+          <GameObject name="3-shu1 (21)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2464"/>
+          <GameObject name="3-shu1 (22)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2224"/>
+          <GameObject name="3-shu1 (27)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2622"/>
+          <GameObject name="3-shu1 (33)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2192"/>
+          <GameObject name="3-shu1 (34)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2334"/>
+          <GameObject name="3-shu1 (35)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2152"/>
+          <GameObject name="3-shu1 (36)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3074"/>
+          <GameObject name="3-fanzi1 (1)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2950"/>
+          <GameObject name="3-shu1 (6)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2886"/>
+          <GameObject name="3-shu1 (37)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2448"/>
+          <GameObject name="3-fanzi1 (2)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2768"/>
+          <GameObject name="3-shu1 (23)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2744"/>
+          <GameObject name="3-shu1 (24)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2206"/>
+          <GameObject name="3-shu1 (7)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2842"/>
+          <GameObject name="3-shu1 (38)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2310"/>
+        </GameObject>
+        <GameObject name="Layer 4" components="" id="2492"/>
+        <GameObject name="Layer 5" components="" id="2748">
+          <GameObject name="GameObject (1)" components="" id="2412"/>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="Arena2" components="" id="3082">
+      <GameObject name="Foreground Layer 2" components="" id="2596">
+        <GameObject name="Layer 1" components="" id="2228"/>
+        <GameObject name="Layer 2" components="" id="2860">
+          <GameObject name="Fog layer 1 (1)" components="" id="3092"/>
+          <GameObject name="2-di1 (1)" components="" id="2850">
+            <GameObject name="shu" components="" id="2944">
+              <GameObject name="shu (3)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2884"/>
+              <GameObject name="shu (5)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2786"/>
+              <GameObject name="shu (7)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2662"/>
+              <GameObject name="shu (11)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2652"/>
+              <GameObject name="shu (13)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2756"/>
+              <GameObject name="shu (14)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2876"/>
+              <GameObject name="shu (17)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2128"/>
+              <GameObject name="dimian" components="" id="2726">
+                <GameObject name="dianmianza (13)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2242"/>
+              </GameObject>
+              <GameObject name="shu (6)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2650"/>
+              <GameObject name="shu (9)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2238"/>
+              <GameObject name="shu (19)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2400"/>
+              <GameObject name="shu (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2230"/>
+              <GameObject name="shu (21)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2484"/>
+              <GameObject name="shu (22)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2716"/>
+              <GameObject name="shu (23)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2308"/>
+              <GameObject name="shu (12)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2810"/>
+              <GameObject name="shu (16)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2172"/>
+              <GameObject name="shu (24)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2188"/>
+              <GameObject name="shu (25)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2672"/>
+              <GameObject name="shu (26)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2844"/>
+              <GameObject name="shu (15)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2118"/>
+              <GameObject name="shu (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3044"/>
+              <GameObject name="shu (10)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2710"/>
+              <GameObject name="shu (18)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2516"/>
+            </GameObject>
+            <GameObject name="2-di1 (32)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2654"/>
+            <GameObject name="2-di1 (34)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2792"/>
+            <GameObject name="2-di1 (33)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2558"/>
+            <GameObject name="2-di1 (36)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2814"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="Layer 3" components="" id="2134">
+          <GameObject name="3-fanzi1 (1)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2994"/>
+          <GameObject name="Layer 4" components="" id="2682">
+            <GameObject name="shu (1)" components="" id="2146">
+              <GameObject name="shu (7)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2168"/>
+              <GameObject name="shu (10)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2576"/>
+              <GameObject name="shu (11)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2892"/>
+              <GameObject name="shu (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2736"/>
+              <GameObject name="shu (24)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2998"/>
+              <GameObject name="shu (25)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2574"/>
+              <GameObject name="shu (31)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2640"/>
+              <GameObject name="shu (32)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2828"/>
+              <GameObject name="shu (49)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2286"/>
+              <GameObject name="shu (54)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3046"/>
+              <GameObject name="shu (57)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2784"/>
+              <GameObject name="shu (27)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2896"/>
+              <GameObject name="shu (55)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2204"/>
+              <GameObject name="shu (56)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2696"/>
+              <GameObject name="shu (58)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2532"/>
+              <GameObject name="shu (59)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2958"/>
+              <GameObject name="shu (60)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3084"/>
+              <GameObject name="shu (61)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2258"/>
+              <GameObject name="shu (62)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3068"/>
+              <GameObject name="shu (63)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2304"/>
+              <GameObject name="shu (65)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2322"/>
+              <GameObject name="shu (67)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2378"/>
+              <GameObject name="shu (64)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2252"/>
+              <GameObject name="shu (28)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2232"/>
+              <GameObject name="shu (22)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3054"/>
+              <GameObject name="shu (66)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2160"/>
+              <GameObject name="shu (68)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2442"/>
+              <GameObject name="shu (29)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2408"/>
+              <GameObject name="shu (33)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2630"/>
+              <GameObject name="shu (70)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2338"/>
+              <GameObject name="shu (71)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2320"/>
+              <GameObject name="shu (72)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2280"/>
+              <GameObject name="shu (73)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2566"/>
+              <GameObject name="shu (74)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2952"/>
+              <GameObject name="shu (75)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2678"/>
+              <GameObject name="shu (76)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2298"/>
+              <GameObject name="shu (77)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2664"/>
+              <GameObject name="shu (78)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3094"/>
+              <GameObject name="shu (30)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3132"/>
+              <GameObject name="shu (36)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2820"/>
+              <GameObject name="shu (37)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2580"/>
+              <GameObject name="shu (39)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2684"/>
+              <GameObject name="shu (79)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2922"/>
+              <GameObject name="shu (40)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2196"/>
+            </GameObject>
+            <GameObject name="4-di1 (12)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2834"/>
+            <GameObject name="4-di1 (13)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2564"/>
+            <GameObject name="4-di1 (14)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2402"/>
+            <GameObject name="4-di1 (15)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2276"/>
+            <GameObject name="4-di1 (16)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2782"/>
+            <GameObject name="4-di1 (17)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2240"/>
+            <GameObject name="4-di1 (18)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2852"/>
+            <GameObject name="4-di1 (19)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2478"/>
+            <GameObject name="4-di1 (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2124"/>
+          </GameObject>
+          <GameObject name="shu" components="" id="2964">
+            <GameObject name="shu (12)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2734"/>
+          </GameObject>
+          <GameObject name="4-di11 (7)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2546"/>
+          <GameObject name="4-di11 (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2808"/>
+          <GameObject name="4-di11 (10)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2920"/>
+          <GameObject name="4-di11 (9)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2416"/>
+          <GameObject name="4-di11 (12)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2836"/>
+          <GameObject name="4-di11 (14)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2446"/>
+          <GameObject name="4-di11 (11)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2178"/>
+          <GameObject name="4-di11 (13)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2444"/>
+        </GameObject>
+        <GameObject name="Layer 5" components="" id="2804">
+          <GameObject name="shu (1)" components="" id="2518">
+            <GameObject name="shu (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2184"/>
+            <GameObject name="shu (14)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2560"/>
+            <GameObject name="shu (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2592"/>
+            <GameObject name="shu (24)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2752"/>
+            <GameObject name="shu (33)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2746"/>
+            <GameObject name="shu (34)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2312"/>
+            <GameObject name="shu (35)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2562"/>
+            <GameObject name="shu (36)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2514"/>
+            <GameObject name="shu (37)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2424"/>
+            <GameObject name="shu (38)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3114"/>
+            <GameObject name="shu (32)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2908"/>
+            <GameObject name="shu (39)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2142"/>
+          </GameObject>
+          <GameObject name="shu (2)" components="" id="2698">
+            <GameObject name="shu (14)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2186"/>
+            <GameObject name="shu (15)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2750"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="Layer 6" components="" id="2706">
+          <GameObject name="1-shu (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2864"/>
+          <GameObject name="xuedizhuanshi" components="" id="2670"/>
+          <GameObject name="xiaoshu" components="" id="2970">
+            <GameObject name="xiaoshu (38)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2728"/>
+          </GameObject>
+          <GameObject name="1-shu (29)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2218"/>
+          <GameObject name="1-shu (30)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2176"/>
+          <GameObject name="1-shu (31)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2602"/>
+          <GameObject name="1-shu (34)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2646"/>
+          <GameObject name="1-shu (35)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2614"/>
+          <GameObject name="1-shu (36)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2506"/>
+          <GameObject name="1-shu (37)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3018"/>
+          <GameObject name="1-shu (38)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2996"/>
+          <GameObject name="1-shu (39)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2552"/>
+          <GameObject name="1-shu (40)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3122"/>
+          <GameObject name="1-shu (41)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2988"/>
+          <GameObject name="1-shu (42)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2730"/>
+          <GameObject name="1-shu (43)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2688"/>
+          <GameObject name="1-shu (44)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3070"/>
+          <GameObject name="1-shu (45)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2476"/>
+          <GameObject name="1-shu (46)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2404"/>
+          <GameObject name="1-shu (47)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2370"/>
+          <GameObject name="1-shu (32)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3060"/>
+          <GameObject name="1-shu (48)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2486"/>
+          <GameObject name="1-shu (49)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2208"/>
+          <GameObject name="1-shu (50)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2978"/>
+          <GameObject name="1-shu (51)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2194"/>
+          <GameObject name="1-shu (52)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2862"/>
+          <GameObject name="1-shu (53)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2868"/>
+          <GameObject name="1-shu (54)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2164"/>
+          <GameObject name="1-shu (56)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2500"/>
+          <GameObject name="1-shu (55)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2878"/>
+          <GameObject name="1-shu (57)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2570"/>
+          <GameObject name="1-shu (59)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2568"/>
+          <GameObject name="1-shu (60)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2254"/>
+          <GameObject name="1-shu (61)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2526"/>
+          <GameObject name="1-shu (65)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2282"/>
+          <GameObject name="1-shu (66)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2316"/>
+          <GameObject name="1-shu (67)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3066"/>
+          <GameObject name="1-shu (58)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2880"/>
+          <GameObject name="1-shu (68)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2342"/>
+          <GameObject name="1-shu (69)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2856"/>
+          <GameObject name="1-shu (70)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2340"/>
+          <GameObject name="1-shu (71)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2660"/>
+          <GameObject name="1-shu (72)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2376"/>
+          <GameObject name="1-shu (73)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2394"/>
+          <GameObject name="1-shu (75)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2740"/>
+          <GameObject name="1-shu (33)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2344"/>
+          <GameObject name="1-shu (76)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3056"/>
+          <GameObject name="1-shu (77)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2846"/>
+          <GameObject name="1-shu (78)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3034"/>
+          <GameObject name="1-shu (79)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3012"/>
+          <GameObject name="1-shu (80)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3008"/>
+          <GameObject name="1-shu (81)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2818"/>
+          <GameObject name="1-shu (82)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2982"/>
+          <GameObject name="1-shu (83)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2226"/>
+          <GameObject name="1-shu (84)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2588"/>
+          <GameObject name="1-shu (85)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3078"/>
+          <GameObject name="1-shu (86)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2832"/>
+          <GameObject name="1-shu (87)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2392"/>
+          <GameObject name="1-shu (89)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2812"/>
+          <GameObject name="1-shu (88)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3098"/>
+          <GameObject name="1-shu (90)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2534"/>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="Arena3" components="" id="2956">
+      <GameObject name="Foreground Layer 2" components="" id="2480">
+        <GameObject name="Layer 1" components="" id="2202"/>
+        <GameObject name="Layer 2" components="" id="2972"/>
+        <GameObject name="Layer 3" components="" id="2324">
+          <GameObject name="di (60)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2296"/>
+          <GameObject name="di (61)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2666"/>
+          <GameObject name="di (62)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2794"/>
+          <GameObject name="di (63)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2364"/>
+          <GameObject name="di (65)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2796"/>
+          <GameObject name="di (66)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3080"/>
+          <GameObject name="di (67)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2430"/>
+          <GameObject name="di (68)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2348"/>
+          <GameObject name="di (72)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2962"/>
+          <GameObject name="di (74)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2890"/>
+          <GameObject name="di (64)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2694"/>
+          <GameObject name="di (73)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2798"/>
+          <GameObject name="di (76)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2472"/>
+          <GameObject name="di (77)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2140"/>
+          <GameObject name="di (79)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2158"/>
+        </GameObject>
+        <GameObject name="Layer 4" components="" id="2830"/>
+        <GameObject name="Layer 5" components="" id="2222"/>
+        <GameObject name="Layer 6" components="" id="3128">
+          <GameObject name="di (73)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2264"/>
+          <GameObject name="di (74)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2866"/>
+          <GameObject name="di (75)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2318"/>
+          <GameObject name="di (76)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2910"/>
+          <GameObject name="di (78)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2536"/>
+          <GameObject name="di (79)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2612"/>
+          <GameObject name="di (77)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2604"/>
+          <GameObject name="di (80)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3120"/>
+          <GameObject name="di (81)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2790"/>
+          <GameObject name="di (82)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2414"/>
+          <GameObject name="di (83)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2528"/>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="Arena4" components="" id="2638">
+      <GameObject name="Foreground Layer 2" components="" id="2266">
+        <GameObject name="Layer 1" components="" id="2882">
+          <GameObject name="Fog layer 1 (2)" components="" id="2262"/>
+          <GameObject name="2-di1 (24)" components="MeshRenderer|MeshFilter|tk2dSprite" id="3038"/>
+          <GameObject name="2-di1 (32)" components="MeshRenderer|MeshFilter|tk2dSprite" id="3104"/>
+        </GameObject>
+        <GameObject name="Layer 2" components="" id="2458">
+          <GameObject name="Fog layer 1 (1)" components="" id="2742"/>
+          <GameObject name="2-di1" components="" id="2936"/>
+          <GameObject name="2-1 (1)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2642"/>
+          <GameObject name="2-shu2" components="MeshRenderer|MeshFilter|tk2dSprite" id="2966"/>
+          <GameObject name="2-shitou3" components="MeshRenderer|MeshFilter|tk2dSprite" id="2374"/>
+          <GameObject name="2-shu4" components="MeshRenderer|MeshFilter|tk2dSprite" id="2550"/>
+          <GameObject name="2-shu2 (1)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2524"/>
+          <GameObject name="2-zhalan1 (4)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2948"/>
+          <GameObject name="2-zhalan1 (7)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2434"/>
+          <GameObject name="2-zhalan1 (8)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2216"/>
+          <GameObject name="2-shitou3 (1)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2326"/>
+          <GameObject name="GameObject (1)" components="" id="2582">
+            <GameObject name="2-di1 (22)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2120"/>
+            <GameObject name="2-di1 (24)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2712"/>
+            <GameObject name="2-di1 (25)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2758"/>
+            <GameObject name="2-di1 (27)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2174"/>
+            <GameObject name="2-di1 (29)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3002"/>
+            <GameObject name="2-di1 (30)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3134"/>
+            <GameObject name="2-di1 (34)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2488"/>
+            <GameObject name="2-di1 (40)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2456"/>
+            <GameObject name="2-di1 (43)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2290"/>
+            <GameObject name="2-di1 (48)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2648"/>
+            <GameObject name="2-di1 (50)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2294"/>
+            <GameObject name="2-di1 (51)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2450"/>
+            <GameObject name="2-di1 (52)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2840"/>
+            <GameObject name="2-di1 (53)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2284"/>
+            <GameObject name="2-di1 (54)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2386"/>
+            <GameObject name="2-di1 (55)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2626"/>
+            <GameObject name="2-di1 (56)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2278"/>
+            <GameObject name="2-di1 (67)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2474"/>
+            <GameObject name="2-di1 (72)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2352"/>
+            <GameObject name="2-di1 (73)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2328"/>
+            <GameObject name="2-di1 (74)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2150"/>
+            <GameObject name="2-di1 (75)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2520"/>
+            <GameObject name="2-di1 (23)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2816"/>
+            <GameObject name="2-di1 (79)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2182"/>
+            <GameObject name="2-di1 (80)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3118"/>
+            <GameObject name="2-di1 (81)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2606"/>
+            <GameObject name="2-di1 (26)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2618"/>
+            <GameObject name="2-di1 (41)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2942"/>
+            <GameObject name="2-di1 (68)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3050"/>
+            <GameObject name="2-di1 (71)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2938"/>
+            <GameObject name="2-di1 (76)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2362"/>
+            <GameObject name="2-di1 (77)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2542"/>
+            <GameObject name="2-di1 (69)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3072"/>
+            <GameObject name="2-di1 (78)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2924"/>
+          </GameObject>
+          <GameObject name="2-shu4 (7)" components="SpriteRenderer" id="2704"/>
+          <GameObject name="2-shu4 (8)" components="SpriteRenderer" id="2460"/>
+          <GameObject name="GameObject (1)" components="" id="2496">
+            <GameObject name="2-shu4 (8)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2358"/>
+            <GameObject name="2-shu4 (12)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2246"/>
+            <GameObject name="2-shu4 (14)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2360"/>
+            <GameObject name="2-shu4 (15)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2126"/>
+          </GameObject>
+          <GameObject name="2-shu2 (3)" components="MeshRenderer|MeshFilter|tk2dSprite" id="3036"/>
+          <GameObject name="2-shu2 (4)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2974"/>
+          <GameObject name="2-shu2 (5)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2426"/>
+          <GameObject name="2-shu2 (6)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2720"/>
+          <GameObject name="2-shu4 (1)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2508"/>
+          <GameObject name="2-zhalan1 (9)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2198"/>
+          <GameObject name="2-shu2 (24)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2620"/>
+          <GameObject name="2-shu2 (26)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2760"/>
+          <GameObject name="2-shu2 (11)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2598"/>
+          <GameObject name="2-shu2 (13)" components="MeshRenderer|MeshFilter|tk2dSprite" id="3048"/>
+          <GameObject name="2-zhalan1 (18)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2396"/>
+          <GameObject name="2-zhalan1 (13)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2634"/>
+          <GameObject name="2-shu2 (18)" components="MeshRenderer|MeshFilter|tk2dSprite" id="2572"/>
+        </GameObject>
+        <GameObject name="Layer 3" components="" id="3022">
+          <GameObject name="3-di1" components="" id="2422">
+            <GameObject name="3-di1 (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2854"/>
+          </GameObject>
+          <GameObject name="3-shu1 (3)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3024"/>
+          <GameObject name="3-shu1 (4)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2372"/>
+          <GameObject name="3-shu1 (5)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2440"/>
+          <GameObject name="3-shu1 (8)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2898"/>
+          <GameObject name="3-shu1 (10)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2874"/>
+          <GameObject name="3-shu1 (18)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2870"/>
+          <GameObject name="3-shu1 (19)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3020"/>
+          <GameObject name="3-shu1 (20)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2234"/>
+          <GameObject name="3-shu1 (21)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2674"/>
+          <GameObject name="3-shu1 (22)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2538"/>
+          <GameObject name="3-shu1 (27)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2556"/>
+          <GameObject name="3-shu1 (33)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2156"/>
+          <GameObject name="3-shu1 (34)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2260"/>
+          <GameObject name="3-shu1 (35)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2848"/>
+          <GameObject name="3-shu1 (36)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2288"/>
+          <GameObject name="3-fanzi1 (1)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2754"/>
+          <GameObject name="3-shu1 (6)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2774"/>
+          <GameObject name="3-shu1 (37)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2900"/>
+          <GameObject name="3-fanzi1 (2)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2350"/>
+          <GameObject name="3-shu1 (23)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3010"/>
+          <GameObject name="3-shu1 (24)" components="MeshFilter|MeshRenderer|tk2dSprite" id="2384"/>
+          <GameObject name="3-shu1 (7)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3096"/>
+          <GameObject name="3-shu1 (38)" components="MeshFilter|MeshRenderer|tk2dSprite" id="3052"/>
+        </GameObject>
+        <GameObject name="Layer 4" components="" id="2332">
+          <GameObject name="4-di1" components="MeshFilter|MeshRenderer|tk2dSprite" id="2608"/>
+        </GameObject>
+        <GameObject name="Layer 5" components="" id="2586">
+          <GameObject name="GameObject (1)" components="" id="2336"/>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+  </GameObject>
+  <GameObject name="ArenaCamera" components="Camera|GUILayer|FlareLayer|Animator|CameraControl" id="2104">
+    <GameObject name="Fog" components="ParticleSystem|ParticleSystemRenderer" id="3112"/>
+    <GameObject name="CameraBg" components="" id="2116">
+      <GameObject name="BG (20)" components="SpriteRenderer" id="2510" img="bgBlack"/>
+      <GameObject name="BG (21)" components="SpriteRenderer" id="3040" img="bgSnow_10"/>
+      <GameObject name="Moon" components="MeshFilter|MeshRenderer|tk2dSprite" id="2410"/>
+    </GameObject>
+    <GameObject name="ef_bg_snow_03" components="ParticleSystem|ParticleSystemRenderer" id="2976">
+      <GameObject name="snow1" components="ParticleSystem|ParticleSystemRenderer" id="2824">
+        <GameObject name="star_big" components="ParticleSystem|ParticleSystemRenderer" id="2530"/>
+        <GameObject name="star_mid" components="ParticleSystem|ParticleSystemRenderer" id="3016"/>
+      </GameObject>
+    </GameObject>
+    <GameObject name="heroFoot" components="" id="-734"/>
+  </GameObject>
+  <GameObject name="BookControl" components="BookControl" id="2432">
+    <GameObject name="Book" components="" id="2724">
+      <GameObject name="min" components="" id="2302"/>
+      <GameObject name="BookCamera" components="Camera" id="2190"/>
+      <GameObject name="max" components="" id="3028"/>
+      <GameObject name="spineMin" components="" id="2428"/>
+      <GameObject name="BookConver" components="" id="2382">
+        <GameObject name="BookFront" components="" id="2690">
+          <GameObject name="Cube" components="MeshFilter|BoxCollider|MeshRenderer" id="2992">
+            <GameObject name="min" components="" id="2248"/>
+            <GameObject name="max" components="" id="2418"/>
+          </GameObject>
+        </GameObject>
+      </GameObject>
+      <GameObject name="spineMax" components="" id="2398"/>
+      <GameObject name="Book" components="MegaBookBuilder" id="-1004">
+        <GameObject name="Spine" components="MeshFilter|BoxCollider|MeshRenderer" id="-1010"/>
+        <GameObject name="Page" components="MeshFilter|MeshRenderer" id="-1214"/>
+        <GameObject name="Page" components="MeshFilter|MeshRenderer" id="-1230"/>
+        <GameObject name="Page" components="MeshFilter|MeshRenderer" id="-1246"/>
+        <GameObject name="Page" components="MeshFilter|MeshRenderer" id="-1262"/>
+        <GameObject name="Page" components="MeshFilter|MeshRenderer" id="-1278"/>
+      </GameObject>
+    </GameObject>
+    <GameObject name="BookAlert" components="" id="3102">
+      <GameObject name="Camera" components="Camera|FlareLayer|GUILayer|AudioListener" id="2772"/>
+      <GameObject name="AlertCanvas" components="Canvas|CanvasScaler|GraphicRaycaster" id="2806"/>
+    </GameObject>
+  </GameObject>
+  <GameObject name="MoonPos" components="" id="2632"/>
+  <GameObject name="WeTestManager" components="WeTestManager|U3DAutomationBehaviour" id="2894"/>
+  <GameObject name="Canvas" components="Canvas|CanvasScaler|GraphicRaycaster" id="2108">
+    <GameObject name="MainPostion" components="" id="2078">
+      <GameObject name="MainLayer" components="MainLayer|SetState|MenuSound" id="-62788">
+        <GameObject name="Title" components="CanvasRenderer|Image" id="-62798" img="Tsding">
+          <GameObject name="Back" components="CanvasRenderer|Image|Button|ButtonSound" id="-62806" img="button_back1"/>
+          <GameObject name="Gold" components="CanvasRenderer|GoldPress" id="-62818">
+            <GameObject name="Icon" components="CanvasRenderer|Image" id="-62826" img="icon_coin"/>
+            <GameObject name="Num" components="CanvasRenderer|Text" id="-62834" txt="502"/>
+          </GameObject>
+          <GameObject name="Central" components="" id="-62842">
+            <GameObject name="Reputation" components="CanvasRenderer|Image|ReputationPress" id="-62846" img="Tsmingqi">
+              <GameObject name="Reputation" components="CanvasRenderer|Image" id="-62866" img="Tsmingqi-1"/>
+            </GameObject>
+            <GameObject name="Courage" components="CanvasRenderer|Image|CouragePress" id="-62874" img="Tsyongqi">
+              <GameObject name="Courage" components="CanvasRenderer|Image" id="-62894" img="Tsyongqi-1"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="AreaName" components="CanvasRenderer|Text|Outline|Shadow" id="-62902" txt="&#31532;&#19968;&#31456;&#183;&#36793;&#22659;&#26449;&#24196;"/>
+          <GameObject name="Schedule" components="" id="-62914">
+            <GameObject name="Schedule" components="CanvasRenderer|Text" id="-62918" txt="&#21097;&#20313;&#39029;&#25968;&#65306;20"/>
+          </GameObject>
+        </GameObject>
+        <GameObject name="Advent" components="CanvasRenderer|LayoutFit" id="-62926">
+          <GameObject name="Advent0" components="CanvasRenderer" id="-62948">
+            <GameObject name="AdventCard_0_1001" components="CanvasRenderer|AdventCardObj" id="-63542">
+              <GameObject name="Advent" components="CanvasRenderer|Animator|Button|ButtonSound" id="-63550">
+                <GameObject name="Event" components="CanvasRenderer|Image" id="-63562" img="Tszhongdi">
+                  <GameObject name="EventName" components="CanvasRenderer|Text" id="-63570" txt="&#20652;&#30496;&#24072;"/>
+                  <GameObject name="Level" components="CanvasRenderer" id="-63578">
+                    <GameObject name="arrow1" components="CanvasRenderer|Image" id="-63584" img="Cs-dengji"/>
+                    <GameObject name="MonsterLevel" components="CanvasRenderer|Text" id="-63592" txt="Lv .1"/>
+                    <GameObject name="arrow2" components="CanvasRenderer|Image" id="-63600" img="Cs-dengji"/>
+                  </GameObject>
+                  <GameObject name="MonsterBg" components="CanvasRenderer|Image" id="-63616" img="Tszhongdibg"/>
+                  <GameObject name="Postion" components="CanvasRenderer|Image|Mask" id="-63624" img="CirclePic">
+                    <GameObject name="cuimianshi" components="CanvasRenderer|SkeletonGraphic|SpineComm" id="-63718"/>
+                  </GameObject>
+                  <GameObject name="Frame" components="" id="-63634">
+                    <GameObject name="MonsterFrame" components="CanvasRenderer|Image" id="-63638" img="Tszhongdi-2"/>
+                  </GameObject>
+                  <GameObject name="Desc" components="CanvasRenderer|Text" id="-63662" txt="&#19981;&#30693;&#36947;&#25105;&#30340;&#20652;&#30496;&#26415;&#23545;&#29436;&#20154;&#26159;&#21542;&#36215;&#20316;&#29992;&#65311;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Effect" components="" id="-63714"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="Advent1" components="CanvasRenderer" id="-62954">
+            <GameObject name="AdventCard_1_1002" components="CanvasRenderer|AdventCardObj" id="-63732">
+              <GameObject name="Advent" components="CanvasRenderer|Animator|Button|ButtonSound" id="-63740">
+                <GameObject name="Event" components="CanvasRenderer|Image" id="-63752" img="Tszhongdi">
+                  <GameObject name="EventName" components="CanvasRenderer|Text" id="-63760" txt="&#37257;&#39740;"/>
+                  <GameObject name="Level" components="CanvasRenderer" id="-63768">
+                    <GameObject name="arrow1" components="CanvasRenderer|Image" id="-63774" img="Cs-dengji"/>
+                    <GameObject name="MonsterLevel" components="CanvasRenderer|Text" id="-63782" txt="Lv .2"/>
+                    <GameObject name="arrow2" components="CanvasRenderer|Image" id="-63790" img="Cs-dengji"/>
+                  </GameObject>
+                  <GameObject name="MonsterBg" components="CanvasRenderer|Image" id="-63806" img="Tszhongdibg"/>
+                  <GameObject name="Postion" components="CanvasRenderer|Image|Mask" id="-63814" img="CirclePic">
+                    <GameObject name="zuigui" components="CanvasRenderer|SkeletonGraphic|SpineComm" id="-63908"/>
+                  </GameObject>
+                  <GameObject name="Frame" components="" id="-63824">
+                    <GameObject name="MonsterFrame" components="CanvasRenderer|Image" id="-63828" img="Tszhongdi-2"/>
+                  </GameObject>
+                  <GameObject name="Desc" components="CanvasRenderer|Text" id="-63852" txt="&#21482;&#26377;&#32966;&#23567;&#39740;&#25165;&#20250;&#23475;&#24597;&#26376;&#22278;&#20043;&#22812;&#65281;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Effect" components="" id="-63904"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="Advent2" components="CanvasRenderer" id="-62960">
+            <GameObject name="AdventCard_2_10" components="CanvasRenderer|AdventCardObj" id="-63922">
+              <GameObject name="Advent" components="CanvasRenderer|Animator|Button|ButtonSound" id="-63930">
+                <GameObject name="Event" components="CanvasRenderer|Image" id="-63942" img="Tszhongdi">
+                  <GameObject name="EventName" components="CanvasRenderer|Text" id="-63950" txt="&#20185;&#22899;&#31069;&#31119;"/>
+                  <GameObject name="Icon" components="CanvasRenderer|Image" id="-63988" img="Banshee"/>
+                  <GameObject name="Postion" components="CanvasRenderer|Image|Mask" id="-64004" img="CirclePic"/>
+                  <GameObject name="Frame" components="" id="-64014">
+                    <GameObject name="EventFrame" components="CanvasRenderer|Image" id="-64026" img="Tszhongdi-3"/>
+                  </GameObject>
+                  <GameObject name="Desc" components="CanvasRenderer|Text" id="-64042" txt="&#25105;&#26366;&#32463;&#36171;&#20104;&#36807;&#21305;&#35834;&#26361;&#29983;&#21629;&#65292;&#20063;&#36192;&#36865;&#20102;&#28784;&#22993;&#23064;&#27700;&#26230;&#38795;&#8230;"/>
+                </GameObject>
+              </GameObject>
+              <GameObject name="Effect" components="" id="-64094"/>
+            </GameObject>
+          </GameObject>
+        </GameObject>
+        <GameObject name="RoleInfo" components="CanvasRenderer|LayoutFit" id="-63012">
+          <GameObject name="Bg" components="CanvasRenderer|Image" id="-63020">
+            <GameObject name="Bg2" components="CanvasRenderer|Image" id="-63028" img="dibu-2"/>
+            <GameObject name="Bg" components="CanvasRenderer|Image" id="-63036" img="dibu-1"/>
+          </GameObject>
+          <GameObject name="SkillBtn" components="CanvasRenderer|Image|Button|Animator" id="-63044" img="Tsjinengdi">
+            <GameObject name="Bg" components="CanvasRenderer|Image|MultiImage" id="-63056" img="jinengdi"/>
+            <GameObject name="Icon" components="CanvasRenderer|Image" id="-63066" img="yongqi"/>
+            <GameObject name="CdLock" components="CanvasRenderer|Image" id="-63074" img="jinengdi"/>
+            <GameObject name="Door" components="CanvasRenderer|Image" id="-63082" img="jineng"/>
+          </GameObject>
+          <GameObject name="CardsBtn" components="CanvasRenderer|Image|Button|Animator" id="-63098" img="Tsybeibao">
+            <GameObject name="Icon" components="CanvasRenderer|Image" id="-63110" img="Tsybeibao1"/>
+            <GameObject name="Text" components="CanvasRenderer|Text|Outline|Shadow" id="-63118" txt="&#21345; &#21253;"/>
+          </GameObject>
+          <GameObject name="RoleInfo" components="CanvasRenderer" id="-63130">
+            <GameObject name="Hp" components="" id="-63136">
+              <GameObject name="HpShow" components="CanvasRenderer|Image" id="-63140" img="xue"/>
+              <GameObject name="TextNum" components="CanvasRenderer|Text|Shadow|Outline|Animator" id="-63148" txt="1020/1020"/>
+              <GameObject name="bg" components="CanvasRenderer|Image" id="-63162" img="xuedi-3"/>
+            </GameObject>
+            <GameObject name="Exp" components="CanvasRenderer" id="-63170">
+              <GameObject name="Bg" components="CanvasRenderer|Image" id="-63176" img="Tsjinyan"/>
+              <GameObject name="Fill" components="CanvasRenderer|Image" id="-63184" img="Tjianyan2"/>
+              <GameObject name="Text" components="CanvasRenderer|Text|Outline|Shadow" id="-63192" txt="0/2"/>
+              <GameObject name="RoleLevel" components="CanvasRenderer|Text" id="-63204" txt="1">
+                <GameObject name="Text" components="CanvasRenderer|Text" id="-63212" txt="LV."/>
+              </GameObject>
+            </GameObject>
+          </GameObject>
+          <GameObject name="Resource" components="CanvasRenderer|Image" id="-63220" img="Tszhiyuandi">
+            <GameObject name="Mana" components="CanvasRenderer|ManaPress" id="-63228">
+              <GameObject name="Icon" components="CanvasRenderer|Image" id="-63236" img="MP"/>
+              <GameObject name="Num" components="CanvasRenderer|Text|Animator" id="-63244" txt="100"/>
+            </GameObject>
+            <GameObject name="Action" components="CanvasRenderer|ActionPress" id="-63254">
+              <GameObject name="Icon" components="CanvasRenderer|Image" id="-63262" img="Tstilii"/>
+              <GameObject name="Num" components="CanvasRenderer|CanvasGroup|Text|Animator" id="-63270" txt="51"/>
+            </GameObject>
+            <GameObject name="CardsMax" components="CanvasRenderer|HandMaxPress" id="-63282">
+              <GameObject name="Icon" components="CanvasRenderer|Image" id="-63290" img="Tsbupai"/>
+              <GameObject name="Num" components="CanvasRenderer|Text|Animator" id="-63298" txt="2"/>
+            </GameObject>
+          </GameObject>
+          <GameObject name="AddResMsg" components="" id="-63308"/>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="PlotPostion" components="" id="2088"/>
+    <GameObject name="WarPostion" components="" id="2072"/>
+    <GameObject name="AlertPostion" components="" id="2098">
+      <GameObject name="GameObject" components="Animator" id="2802"/>
+    </GameObject>
+    <GameObject name="GM" components="" id="2066"/>
+  </GameObject>
+</AbstractRoot>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites>
+  <testsuite name="发现.发现.发现"/>
+  <testsuite name="我的照片.我的照片.我的照片"/>
+  <testsuite name="逃杀.逃杀.逃杀"/>
+  <testsuite name="本轮昵称.本轮昵称.本轮昵称"/>
+  <testsuite name="总探险分数.总探险分数.总探险分数"/>
+  <testsuite name="游戏中.游戏中.游戏中"/>
+  <testsuite name="礼物积分.礼物积分.礼物积分"/>
+  <testsuite name="当前段位.当前段位.当前段位"/>
+  <testsuite name="发送.发送.发送"/>
+  <testsuite name="大奖赛.大奖赛.大奖赛"/>
+  <testsuite name="分享游戏.分享游戏.分享游戏"/>
+  <testsuite name="送礼积分.送礼积分.送礼积分"/>
+  <testsuite name="问号.问号.问号"/>
+  <testsuite name="观战视角.观战视角.观战视角"/>
+  <testsuite name="继续比赛.继续比赛.继续比赛"/>
+  <testsuite name="更多.更多.更多"/>
+  <testsuite name="当前赛季段位.当前赛季段位.当前赛季段位"/>
+  <testsuite name="确定.确定.确定"/>
+  <testsuite name="兑换.兑换.兑换"/>
+  <testsuite name="皮肤总价值.皮肤总价值.皮肤总价值"/>
+  <testsuite name="默认头像.默认头像.默认头像"/>
+  <testsuite name="背包.背包.背包"/>
+  <testsuite name="推荐房间.推荐房间.推荐房间"/>
+  <testsuite name="赛季结算奖励.赛季结算奖励.赛季结算奖励"/>
+  <testsuite name="圣衣总价值.圣衣总价值.圣衣总价值"/>
+  <testsuite name="搜索.搜索.搜索"/>
+  <testsuite name="上传录音.上传录音.上传录音"/>
+  <testsuite name="切换省市.切换省市.切换省市"/>
+  <testsuite name="礼物数量.礼物数量.礼物数量"/>
+</testsuites>
